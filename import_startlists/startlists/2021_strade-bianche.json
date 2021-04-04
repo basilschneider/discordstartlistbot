@@ -1,0 +1,877 @@
+[
+  {
+    "number": 1,
+    "name": "VAN AERT Wout",
+    "team": "Jumbo-Visma"
+  },
+  {
+    "number": 2,
+    "name": "FOSS Tobias",
+    "team": "Jumbo-Visma"
+  },
+  {
+    "number": 3,
+    "name": "GESINK Robert",
+    "team": "Jumbo-Visma"
+  },
+  {
+    "number": 4,
+    "name": "HARPER Chris",
+    "team": "Jumbo-Visma"
+  },
+  {
+    "number": 5,
+    "name": "VAN HOOYDONCK Nathan",
+    "team": "Jumbo-Visma"
+  },
+  {
+    "number": 6,
+    "name": "MARTENS Paul",
+    "team": "Jumbo-Visma"
+  },
+  {
+    "number": 7,
+    "name": "ROOSEN Timo",
+    "team": "Jumbo-Visma"
+  },
+  {
+    "number": 11,
+    "name": "VAN AVERMAET Greg",
+    "team": "AG2R Citroën Team"
+  },
+  {
+    "number": 12,
+    "name": "CALMEJANE Lilian",
+    "team": "AG2R Citroën Team"
+  },
+  {
+    "number": 13,
+    "name": "PETERS Nans",
+    "team": "AG2R Citroën Team"
+  },
+  {
+    "number": 14,
+    "name": "SCHÄR Michael",
+    "team": "AG2R Citroën Team"
+  },
+  {
+    "number": 15,
+    "name": "VAN HOECKE Gijs",
+    "team": "AG2R Citroën Team"
+  },
+  {
+    "number": 16,
+    "name": "VENDRAME Andrea",
+    "team": "AG2R Citroën Team"
+  },
+  {
+    "number": 17,
+    "name": "VENTURINI Clément",
+    "team": "AG2R Citroën Team"
+  },
+  {
+    "number": 21,
+    "name": "VAN DER POEL Mathieu",
+    "team": "Alpecin-Fenix"
+  },
+  {
+    "number": 22,
+    "name": "MEURISSE Xandro",
+    "team": "Alpecin-Fenix"
+  },
+  {
+    "number": 23,
+    "name": "RICKAERT Jonas",
+    "team": "Alpecin-Fenix"
+  },
+  {
+    "number": 24,
+    "name": "VAKOČ Petr",
+    "team": "Alpecin-Fenix"
+  },
+  {
+    "number": 25,
+    "name": "VERGAERDE Otto",
+    "team": "Alpecin-Fenix"
+  },
+  {
+    "number": 26,
+    "name": "VERMEERSCH Gianni",
+    "team": "Alpecin-Fenix"
+  },
+  {
+    "number": 27,
+    "name": "WALSLEBEN Philipp",
+    "team": "Alpecin-Fenix"
+  },
+  {
+    "number": 31,
+    "name": "BAIS Mattia",
+    "team": "Androni Giocattoli-Sidermec"
+  },
+  {
+    "number": 32,
+    "name": "PELIKÁN János",
+    "team": "Androni Giocattoli-Sidermec"
+  },
+  {
+    "number": 33,
+    "name": "PELLAUD Simon",
+    "team": "Androni Giocattoli-Sidermec"
+  },
+  {
+    "number": 34,
+    "name": "RUMAC Josip",
+    "team": "Androni Giocattoli-Sidermec"
+  },
+  {
+    "number": 35,
+    "name": "TAGLIANI Filippo",
+    "team": "Androni Giocattoli-Sidermec"
+  },
+  {
+    "number": 36,
+    "name": "VENCHIARUTTI Nicola",
+    "team": "Androni Giocattoli-Sidermec"
+  },
+  {
+    "number": 37,
+    "name": "VIEL Mattia",
+    "team": "Androni Giocattoli-Sidermec"
+  },
+  {
+    "number": 41,
+    "name": "FUGLSANG Jakob",
+    "team": "Astana-Premier Tech"
+  },
+  {
+    "number": 42,
+    "name": "ARANBURU Alex",
+    "team": "Astana-Premier Tech"
+  },
+  {
+    "number": 43,
+    "name": "BOARO Manuele",
+    "team": "Astana-Premier Tech"
+  },
+  {
+    "number": 44,
+    "name": "FELLINE Fabio",
+    "team": "Astana-Premier Tech"
+  },
+  {
+    "number": 45,
+    "name": "HOULE Hugo",
+    "team": "Astana-Premier Tech"
+  },
+  {
+    "number": 46,
+    "name": "IZAGIRRE Gorka",
+    "team": "Astana-Premier Tech"
+  },
+  {
+    "number": 47,
+    "name": "GREGAARD Jonas",
+    "team": "Astana-Premier Tech"
+  },
+  {
+    "number": 51,
+    "name": "BILBAO Pello",
+    "team": "Bahrain-Victorious"
+  },
+  {
+    "number": 52,
+    "name": "CAPECCHI Eros",
+    "team": "Bahrain-Victorious"
+  },
+  {
+    "number": 53,
+    "name": "MOHORIČ Matej",
+    "team": "Bahrain-Victorious"
+  },
+  {
+    "number": 54,
+    "name": "NOVAK Domen",
+    "team": "Bahrain-Victorious"
+  },
+  {
+    "number": 55,
+    "name": "PADUN Mark",
+    "team": "Bahrain-Victorious"
+  },
+  {
+    "number": 56,
+    "name": "PERNSTEINER Hermann",
+    "team": "Bahrain-Victorious"
+  },
+  {
+    "number": 57,
+    "name": "TRATNIK Jan",
+    "team": "Bahrain-Victorious"
+  },
+  {
+    "number": 61,
+    "name": "ZACCANTI Filippo",
+    "team": "Bardiani-CSF-Faizanè"
+  },
+  {
+    "number": 62,
+    "name": "GABBURO Davide",
+    "team": "Bardiani-CSF-Faizanè"
+  },
+  {
+    "number": 63,
+    "name": "MAZZUCCO Fabio",
+    "team": "Bardiani-CSF-Faizanè"
+  },
+  {
+    "number": 64,
+    "name": "TONELLI Alessandro",
+    "team": "Bardiani-CSF-Faizanè"
+  },
+  {
+    "number": 65,
+    "name": "VISCONTI Giovanni",
+    "team": "Bardiani-CSF-Faizanè"
+  },
+  {
+    "number": 66,
+    "name": "ZANA Filippo",
+    "team": "Bardiani-CSF-Faizanè"
+  },
+  {
+    "number": 67,
+    "name": "ZOCCARATO Samuele",
+    "team": "Bardiani-CSF-Faizanè"
+  },
+  {
+    "number": 71,
+    "name": "ALEOTTI Giovanni",
+    "team": "Bora-Hansgrohe"
+  },
+  {
+    "number": 72,
+    "name": "BUCHMANN Emanuel",
+    "team": "Bora-Hansgrohe"
+  },
+  {
+    "number": 73,
+    "name": "BURGHARDT Marcus",
+    "team": "Bora-Hansgrohe"
+  },
+  {
+    "number": 74,
+    "name": "GAMPER Patrick",
+    "team": "Bora-Hansgrohe"
+  },
+  {
+    "number": 75,
+    "name": "KONRAD Patrick",
+    "team": "Bora-Hansgrohe"
+  },
+  {
+    "number": 76,
+    "name": "OSS Daniel",
+    "team": "Bora-Hansgrohe"
+  },
+  {
+    "number": 77,
+    "name": "ZWIEHOFF Ben",
+    "team": "Bora-Hansgrohe"
+  },
+  {
+    "number": 81,
+    "name": "EDET Nicolas",
+    "team": "Cofidis"
+  },
+  {
+    "number": 82,
+    "name": "BERHANE Natnael",
+    "team": "Cofidis"
+  },
+  {
+    "number": 83,
+    "name": "BOHLI Tom",
+    "team": "Cofidis"
+  },
+  {
+    "number": 84,
+    "name": "CARVALHO Andre",
+    "team": "Cofidis"
+  },
+  {
+    "number": 85,
+    "name": "CHAMPION Thomas",
+    "team": "Cofidis"
+  },
+  {
+    "number": 86,
+    "name": "HAAS Nathan",
+    "team": "Cofidis"
+  },
+  {
+    "number": 87,
+    "name": "SABATINI Fabio",
+    "team": "Cofidis"
+  },
+  {
+    "number": 91,
+    "name": "ASGREEN Kasper",
+    "team": "Deceuninck-Quick-Step"
+  },
+  {
+    "number": 92,
+    "name": "DEVENYNS Dries",
+    "team": "Deceuninck-Quick-Step"
+  },
+  {
+    "number": 93,
+    "name": "ALAPHILIPPE Julian",
+    "team": "Deceuninck-Quick-Step"
+  },
+  {
+    "number": 94,
+    "name": "ALMEIDA João",
+    "team": "Deceuninck-Quick-Step"
+  },
+  {
+    "number": 95,
+    "name": "BALLERINI Davide",
+    "team": "Deceuninck-Quick-Step"
+  },
+  {
+    "number": 96,
+    "name": "SERRY Pieter",
+    "team": "Deceuninck-Quick-Step"
+  },
+  {
+    "number": 97,
+    "name": "ŠTYBAR Zdeněk",
+    "team": "Deceuninck-Quick-Step"
+  },
+  {
+    "number": 101,
+    "name": "BETTIOL Alberto",
+    "team": "EF Education – Nippo"
+  },
+  {
+    "number": 102,
+    "name": "CARR Simon",
+    "team": "EF Education – Nippo"
+  },
+  {
+    "number": 103,
+    "name": "CRADDOCK Lawson",
+    "team": "EF Education – Nippo"
+  },
+  {
+    "number": 104,
+    "name": "DOCKER Mitchell",
+    "team": "EF Education – Nippo"
+  },
+  {
+    "number": 105,
+    "name": "HOWES Alex",
+    "team": "EF Education – Nippo"
+  },
+  {
+    "number": 106,
+    "name": "LANGEVELD Sebastian",
+    "team": "EF Education – Nippo"
+  },
+  {
+    "number": 107,
+    "name": "VAN DEN BERG Julius",
+    "team": "EF Education – Nippo"
+  },
+  {
+    "number": 111,
+    "name": "BAIS Davide",
+    "team": "Eolo-Kometa"
+  },
+  {
+    "number": 112,
+    "name": "FETTER Erik",
+    "team": "Eolo-Kometa"
+  },
+  {
+    "number": 113,
+    "name": "GARCIA GONZALEZ Sergio",
+    "team": "Eolo-Kometa"
+  },
+  {
+    "number": 114,
+    "name": "GRÁVALOS Arturo",
+    "team": "Eolo-Kometa"
+  },
+  {
+    "number": 115,
+    "name": "RIVI Samuele",
+    "team": "Eolo-Kometa"
+  },
+  {
+    "number": 116,
+    "name": "SEVILLA Diego Pablo",
+    "team": "Eolo-Kometa"
+  },
+  {
+    "number": 117,
+    "name": "VIEGAS Daniel",
+    "team": "Eolo-Kometa"
+  },
+  {
+    "number": 121,
+    "name": "KÜNG Stefan",
+    "team": "Groupama-FDJ"
+  },
+  {
+    "number": 122,
+    "name": "GENIETS Kevin",
+    "team": "Groupama-FDJ"
+  },
+  {
+    "number": 123,
+    "name": "GUGLIELMI Simon",
+    "team": "Groupama-FDJ"
+  },
+  {
+    "number": 124,
+    "name": "LUDVIGSSON Tobias",
+    "team": "Groupama-FDJ"
+  },
+  {
+    "number": 125,
+    "name": "MADOUAS Valentin",
+    "team": "Groupama-FDJ"
+  },
+  {
+    "number": 126,
+    "name": "MOLARD Rudy",
+    "team": "Groupama-FDJ"
+  },
+  {
+    "number": 127,
+    "name": "SEIGLE Romain",
+    "team": "Groupama-FDJ"
+  },
+  {
+    "number": 131,
+    "name": "PIDCOCK Thomas",
+    "team": "Ineos Grenadiers"
+  },
+  {
+    "number": 132,
+    "name": "BASSO Leonardo",
+    "team": "Ineos Grenadiers"
+  },
+  {
+    "number": 133,
+    "name": "BERNAL Egan",
+    "team": "Ineos Grenadiers"
+  },
+  {
+    "number": 134,
+    "name": "DOULL Owain",
+    "team": "Ineos Grenadiers"
+  },
+  {
+    "number": 135,
+    "name": "KWIATKOWSKI Michał",
+    "team": "Ineos Grenadiers"
+  },
+  {
+    "number": 136,
+    "name": "PUCCIO Salvatore",
+    "team": "Ineos Grenadiers"
+  },
+  {
+    "number": 137,
+    "name": "SIVAKOV Pavel",
+    "team": "Ineos Grenadiers"
+  },
+  {
+    "number": 141,
+    "name": "DELACROIX Theo",
+    "team": "Intermarché – Wanty – Gobert Matériaux"
+  },
+  {
+    "number": 142,
+    "name": "DEVRIENDT Tom",
+    "team": "Intermarché – Wanty – Gobert Matériaux"
+  },
+  {
+    "number": 143,
+    "name": "PASQUALON Andrea",
+    "team": "Intermarché – Wanty – Gobert Matériaux"
+  },
+  {
+    "number": 144,
+    "name": "PETILLI Simone",
+    "team": "Intermarché – Wanty – Gobert Matériaux"
+  },
+  {
+    "number": 145,
+    "name": "ROTA Lorenzo",
+    "team": "Intermarché – Wanty – Gobert Matériaux"
+  },
+  {
+    "number": 146,
+    "name": "VLIEGEN Loïc",
+    "team": "Intermarché – Wanty – Gobert Matériaux"
+  },
+  {
+    "number": 147,
+    "name": "ZIMMERMANN Georg",
+    "team": "Intermarché – Wanty – Gobert Matériaux"
+  },
+  {
+    "number": 151,
+    "name": "BEVIN Patrick",
+    "team": "Israel Start-Up Nation"
+  },
+  {
+    "number": 152,
+    "name": "BIERMANS Jenthe",
+    "team": "Israel Start-Up Nation"
+  },
+  {
+    "number": 153,
+    "name": "BOIVIN Guillaume",
+    "team": "Israel Start-Up Nation"
+  },
+  {
+    "number": 154,
+    "name": "DE MARCHI Alessandro",
+    "team": "Israel Start-Up Nation"
+  },
+  {
+    "number": 155,
+    "name": "RENARD Alexis",
+    "team": "Israel Start-Up Nation"
+  },
+  {
+    "number": 156,
+    "name": "WÜRTZ SCHMIDT Mads",
+    "team": "Israel Start-Up Nation"
+  },
+  {
+    "number": 157,
+    "name": "VAN ASBROECK Tom",
+    "team": "Israel Start-Up Nation"
+  },
+  {
+    "number": 161,
+    "name": "WELLENS Tim",
+    "team": "Lotto-Soudal"
+  },
+  {
+    "number": 162,
+    "name": "CONCA Filippo",
+    "team": "Lotto-Soudal"
+  },
+  {
+    "number": 163,
+    "name": "FRISON Frederik",
+    "team": "Lotto-Soudal"
+  },
+  {
+    "number": 164,
+    "name": "KRON Andreas",
+    "team": "Lotto-Soudal"
+  },
+  {
+    "number": 165,
+    "name": "MARCZYŃSKI Tomasz",
+    "team": "Lotto-Soudal"
+  },
+  {
+    "number": 166,
+    "name": "VAN DER SANDE Tosh",
+    "team": "Lotto-Soudal"
+  },
+  {
+    "number": 167,
+    "name": "VAN MOER Brent",
+    "team": "Lotto-Soudal"
+  },
+  {
+    "number": 171,
+    "name": "VALVERDE Alejandro",
+    "team": "Movistar Team"
+  },
+  {
+    "number": 172,
+    "name": "CARRETERO Héctor",
+    "team": "Movistar Team"
+  },
+  {
+    "number": 173,
+    "name": "GARCÍA CORTINA Iván",
+    "team": "Movistar Team"
+  },
+  {
+    "number": 174,
+    "name": "GONZÁLEZ Abner",
+    "team": "Movistar Team"
+  },
+  {
+    "number": 175,
+    "name": "MAS Lluís",
+    "team": "Movistar Team"
+  },
+  {
+    "number": 176,
+    "name": "SAMITIER Sergio",
+    "team": "Movistar Team"
+  },
+  {
+    "number": 177,
+    "name": "SERRANO Gonzalo",
+    "team": "Movistar Team"
+  },
+  {
+    "number": 181,
+    "name": "ROSA Diego",
+    "team": "Arkéa-Samsic"
+  },
+  {
+    "number": 182,
+    "name": "HARDY Romain",
+    "team": "Arkéa-Samsic"
+  },
+  {
+    "number": 183,
+    "name": "LEDANOIS Kévin",
+    "team": "Arkéa-Samsic"
+  },
+  {
+    "number": 184,
+    "name": "LOUVEL Matis",
+    "team": "Arkéa-Samsic"
+  },
+  {
+    "number": 185,
+    "name": "OWSIAN Łukasz",
+    "team": "Arkéa-Samsic"
+  },
+  {
+    "number": 186,
+    "name": "PICHON Laurent",
+    "team": "Arkéa-Samsic"
+  },
+  {
+    "number": 187,
+    "name": "RIOU Alan",
+    "team": "Arkéa-Samsic"
+  },
+  {
+    "number": 191,
+    "name": "YATES Simon",
+    "team": "Team BikeExchange"
+  },
+  {
+    "number": 192,
+    "name": "BAUER Jack",
+    "team": "Team BikeExchange"
+  },
+  {
+    "number": 193,
+    "name": "BOOKWALTER Brent",
+    "team": "Team BikeExchange"
+  },
+  {
+    "number": 194,
+    "name": "JUUL-JENSEN Christopher",
+    "team": "Team BikeExchange"
+  },
+  {
+    "number": 195,
+    "name": "PEÁK Barnabás",
+    "team": "Team BikeExchange"
+  },
+  {
+    "number": 196,
+    "name": "SCHULTZ Nick",
+    "team": "Team BikeExchange"
+  },
+  {
+    "number": 197,
+    "name": "STANNARD Robert",
+    "team": "Team BikeExchange"
+  },
+  {
+    "number": 201,
+    "name": "BARDET Romain",
+    "team": "Team DSM"
+  },
+  {
+    "number": 202,
+    "name": "ARENSMAN Thymen",
+    "team": "Team DSM"
+  },
+  {
+    "number": 203,
+    "name": "COMBAUD Romain",
+    "team": "Team DSM"
+  },
+  {
+    "number": 204,
+    "name": "HAMILTON Chris",
+    "team": "Team DSM"
+  },
+  {
+    "number": 205,
+    "name": "NIEUWENHUIS Joris",
+    "team": "Team DSM"
+  },
+  {
+    "number": 206,
+    "name": "TUSVELD Martijn",
+    "team": "Team DSM"
+  },
+  {
+    "number": 207,
+    "name": "VERMAERKE Kevin",
+    "team": "Team DSM"
+  },
+  {
+    "number": 211,
+    "name": "CLARKE Simon",
+    "team": "Team Qhubeka-Assos"
+  },
+  {
+    "number": 212,
+    "name": "GOGL Michael",
+    "team": "Team Qhubeka-Assos"
+  },
+  {
+    "number": 213,
+    "name": "LINDEMAN Bert-Jan",
+    "team": "Team Qhubeka-Assos"
+  },
+  {
+    "number": 214,
+    "name": "POWER Robert",
+    "team": "Team Qhubeka-Assos"
+  },
+  {
+    "number": 215,
+    "name": "SCHMID Mauro",
+    "team": "Team Qhubeka-Assos"
+  },
+  {
+    "number": 216,
+    "name": "VACEK Karel",
+    "team": "Team Qhubeka-Assos"
+  },
+  {
+    "number": 217,
+    "name": "VINJEBO Emil",
+    "team": "Team Qhubeka-Assos"
+  },
+  {
+    "number": 221,
+    "name": "BRAMBILLA Gianluca",
+    "team": "Trek-Segafredo"
+  },
+  {
+    "number": 222,
+    "name": "CONCI Nicola",
+    "team": "Trek-Segafredo"
+  },
+  {
+    "number": 223,
+    "name": "GHEBREIGZABHIER Amanuel",
+    "team": "Trek-Segafredo"
+  },
+  {
+    "number": 224,
+    "name": "MOLLEMA Bauke",
+    "team": "Trek-Segafredo"
+  },
+  {
+    "number": 225,
+    "name": "NIBALI Antonio",
+    "team": "Trek-Segafredo"
+  },
+  {
+    "number": 226,
+    "name": "SIMMONS Quinn",
+    "team": "Trek-Segafredo"
+  },
+  {
+    "number": 227,
+    "name": "SKUJIŅŠ Toms",
+    "team": "Trek-Segafredo"
+  },
+  {
+    "number": 231,
+    "name": "POGAČAR Tadej",
+    "team": "UAE Team Emirates"
+  },
+  {
+    "number": 232,
+    "name": "CONTI Valerio",
+    "team": "UAE Team Emirates"
+  },
+  {
+    "number": 233,
+    "name": "FORMOLO Davide",
+    "team": "UAE Team Emirates"
+  },
+  {
+    "number": 234,
+    "name": "LAENGEN Vegard Stake",
+    "team": "UAE Team Emirates"
+  },
+  {
+    "number": 235,
+    "name": "MARCATO Marco",
+    "team": "UAE Team Emirates"
+  },
+  {
+    "number": 236,
+    "name": "POLANC Jan",
+    "team": "UAE Team Emirates"
+  },
+  {
+    "number": 237,
+    "name": "RIABUSHENKO Alexandr",
+    "team": "UAE Team Emirates"
+  },
+  {
+    "number": 241,
+    "name": "BERTAZZO Liam",
+    "team": "Vini Zabù"
+  },
+  {
+    "number": 242,
+    "name": "BEVILACQUA Mattia",
+    "team": "Vini Zabù"
+  },
+  {
+    "number": 243,
+    "name": "DI RENZO Andrea",
+    "team": "Vini Zabù"
+  },
+  {
+    "number": 244,
+    "name": "FRAPPORTI Marco",
+    "team": "Vini Zabù"
+  },
+  {
+    "number": 245,
+    "name": "GRADEK Kamil",
+    "team": "Vini Zabù"
+  },
+  {
+    "number": 246,
+    "name": "ORRICO Davide",
+    "team": "Vini Zabù"
+  },
+  {
+    "number": 247,
+    "name": "PETELIN Jan",
+    "team": "Vini Zabù"
+  }
+]

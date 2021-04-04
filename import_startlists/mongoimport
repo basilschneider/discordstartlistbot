@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+file="${1}"
+collection="${1##*/}"
+collection="${collection%.json}"
+
+mongoimport \
+    --uri mongodb+srv://live-radsport:anOrdinaryPassword@cluster0.zywng.mongodb.net/cycling_startlists \
+    --collection "${collection}" \
+    --type json \
+    --jsonArray \
+    --file "${file}"

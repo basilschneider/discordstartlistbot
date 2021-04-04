@@ -1,0 +1,176 @@
+number, name, team
+1, VAN AERT Wout, Jumbo-Visma
+2, FOSS Tobias, Jumbo-Visma
+3, GESINK Robert, Jumbo-Visma
+4, HARPER Chris, Jumbo-Visma
+5, VAN HOOYDONCK Nathan, Jumbo-Visma
+6, MARTENS Paul, Jumbo-Visma
+7, ROOSEN Timo, Jumbo-Visma
+11, VAN AVERMAET Greg, AG2R Citroën Team
+12, CALMEJANE Lilian, AG2R Citroën Team
+13, PETERS Nans, AG2R Citroën Team
+14, SCHÄR Michael, AG2R Citroën Team
+15, VAN HOECKE Gijs, AG2R Citroën Team
+16, VENDRAME Andrea, AG2R Citroën Team
+17, VENTURINI Clément, AG2R Citroën Team
+21, VAN DER POEL Mathieu, Alpecin-Fenix
+22, MEURISSE Xandro, Alpecin-Fenix
+23, RICKAERT Jonas, Alpecin-Fenix
+24, VAKOČ Petr, Alpecin-Fenix
+25, VERGAERDE Otto, Alpecin-Fenix
+26, VERMEERSCH Gianni, Alpecin-Fenix
+27, WALSLEBEN Philipp, Alpecin-Fenix
+31, BAIS Mattia, Androni Giocattoli-Sidermec
+32, PELIKÁN János, Androni Giocattoli-Sidermec
+33, PELLAUD Simon, Androni Giocattoli-Sidermec
+34, RUMAC Josip, Androni Giocattoli-Sidermec
+35, TAGLIANI Filippo, Androni Giocattoli-Sidermec
+36, VENCHIARUTTI Nicola, Androni Giocattoli-Sidermec
+37, VIEL Mattia, Androni Giocattoli-Sidermec
+41, FUGLSANG Jakob, Astana-Premier Tech
+42, ARANBURU Alex, Astana-Premier Tech
+43, BOARO Manuele, Astana-Premier Tech
+44, FELLINE Fabio, Astana-Premier Tech
+45, HOULE Hugo, Astana-Premier Tech
+46, IZAGIRRE Gorka, Astana-Premier Tech
+47, GREGAARD Jonas, Astana-Premier Tech
+51, BILBAO Pello, Bahrain-Victorious
+52, CAPECCHI Eros, Bahrain-Victorious
+53, MOHORIČ Matej, Bahrain-Victorious
+54, NOVAK Domen, Bahrain-Victorious
+55, PADUN Mark, Bahrain-Victorious
+56, PERNSTEINER Hermann, Bahrain-Victorious
+57, TRATNIK Jan, Bahrain-Victorious
+61, ZACCANTI Filippo, Bardiani-CSF-Faizanè
+62, GABBURO Davide, Bardiani-CSF-Faizanè
+63, MAZZUCCO Fabio, Bardiani-CSF-Faizanè
+64, TONELLI Alessandro, Bardiani-CSF-Faizanè
+65, VISCONTI Giovanni, Bardiani-CSF-Faizanè
+66, ZANA Filippo, Bardiani-CSF-Faizanè
+67, ZOCCARATO Samuele, Bardiani-CSF-Faizanè
+71, ALEOTTI Giovanni, Bora-Hansgrohe
+72, BUCHMANN Emanuel, Bora-Hansgrohe
+73, BURGHARDT Marcus, Bora-Hansgrohe
+74, GAMPER Patrick, Bora-Hansgrohe
+75, KONRAD Patrick, Bora-Hansgrohe
+76, OSS Daniel, Bora-Hansgrohe
+77, ZWIEHOFF Ben, Bora-Hansgrohe
+81, EDET Nicolas, Cofidis, Solutions Crédits
+82, BERHANE Natnael, Cofidis, Solutions Crédits
+83, BOHLI Tom, Cofidis, Solutions Crédits
+84, CARVALHO Andre, Cofidis, Solutions Crédits
+85, CHAMPION Thomas, Cofidis, Solutions Crédits
+86, HAAS Nathan, Cofidis, Solutions Crédits
+87, SABATINI Fabio, Cofidis, Solutions Crédits
+91, ASGREEN Kasper, Deceuninck-Quick-Step
+92, DEVENYNS Dries, Deceuninck-Quick-Step
+93, ALAPHILIPPE Julian, Deceuninck-Quick-Step
+94, ALMEIDA João, Deceuninck-Quick-Step
+95, BALLERINI Davide, Deceuninck-Quick-Step
+96, SERRY Pieter, Deceuninck-Quick-Step
+97, ŠTYBAR Zdeněk, Deceuninck-Quick-Step
+101, BETTIOL Alberto, EF Education – Nippo
+102, CARR Simon, EF Education – Nippo
+103, CRADDOCK Lawson, EF Education – Nippo
+104, DOCKER Mitchell, EF Education – Nippo
+105, HOWES Alex, EF Education – Nippo
+106, LANGEVELD Sebastian, EF Education – Nippo
+107, VAN DEN BERG Julius, EF Education – Nippo
+111, BAIS Davide, Eolo-Kometa
+112, FETTER Erik, Eolo-Kometa
+113, GARCIA GONZALEZ Sergio, Eolo-Kometa
+114, GRÁVALOS Arturo, Eolo-Kometa
+115, RIVI Samuele, Eolo-Kometa
+116, SEVILLA Diego Pablo, Eolo-Kometa
+117, VIEGAS Daniel, Eolo-Kometa
+121, KÜNG Stefan, Groupama-FDJ
+122, GENIETS Kevin, Groupama-FDJ
+123, GUGLIELMI Simon, Groupama-FDJ
+124, LUDVIGSSON Tobias, Groupama-FDJ
+125, MADOUAS Valentin, Groupama-FDJ
+126, MOLARD Rudy, Groupama-FDJ
+127, SEIGLE Romain, Groupama-FDJ
+131, PIDCOCK Thomas, Ineos Grenadiers
+132, BASSO Leonardo, Ineos Grenadiers
+133, BERNAL Egan, Ineos Grenadiers
+134, DOULL Owain, Ineos Grenadiers
+135, KWIATKOWSKI Michał, Ineos Grenadiers
+136, PUCCIO Salvatore, Ineos Grenadiers
+137, SIVAKOV Pavel, Ineos Grenadiers
+141, DELACROIX Theo, Intermarché – Wanty – Gobert Matériaux
+142, DEVRIENDT Tom, Intermarché – Wanty – Gobert Matériaux
+143, PASQUALON Andrea, Intermarché – Wanty – Gobert Matériaux
+144, PETILLI Simone, Intermarché – Wanty – Gobert Matériaux
+145, ROTA Lorenzo, Intermarché – Wanty – Gobert Matériaux
+146, VLIEGEN Loïc, Intermarché – Wanty – Gobert Matériaux
+147, ZIMMERMANN Georg, Intermarché – Wanty – Gobert Matériaux
+151, BEVIN Patrick, Israel Start-Up Nation
+152, BIERMANS Jenthe, Israel Start-Up Nation
+153, BOIVIN Guillaume, Israel Start-Up Nation
+154, DE MARCHI Alessandro, Israel Start-Up Nation
+155, RENARD Alexis, Israel Start-Up Nation
+156, WÜRTZ SCHMIDT Mads, Israel Start-Up Nation
+157, VAN ASBROECK Tom, Israel Start-Up Nation
+161, WELLENS Tim, Lotto-Soudal
+162, CONCA Filippo, Lotto-Soudal
+163, FRISON Frederik, Lotto-Soudal
+164, KRON Andreas, Lotto-Soudal
+165, MARCZYŃSKI Tomasz, Lotto-Soudal
+166, VAN DER SANDE Tosh, Lotto-Soudal
+167, VAN MOER Brent, Lotto-Soudal
+171, VALVERDE Alejandro, Movistar Team
+172, CARRETERO Héctor, Movistar Team
+173, GARCÍA CORTINA Iván, Movistar Team
+174, GONZÁLEZ Abner, Movistar Team
+175, MAS Lluís, Movistar Team
+176, SAMITIER Sergio, Movistar Team
+177, SERRANO Gonzalo, Movistar Team
+181, ROSA Diego, Arkéa-Samsic
+182, HARDY Romain, Arkéa-Samsic
+183, LEDANOIS Kévin, Arkéa-Samsic
+184, LOUVEL Matis, Arkéa-Samsic
+185, OWSIAN Łukasz, Arkéa-Samsic
+186, PICHON Laurent, Arkéa-Samsic
+187, RIOU Alan, Arkéa-Samsic
+191, YATES Simon, Team BikeExchange
+192, BAUER Jack, Team BikeExchange
+193, BOOKWALTER Brent, Team BikeExchange
+194, JUUL-JENSEN Christopher, Team BikeExchange
+195, PEÁK Barnabás, Team BikeExchange
+196, SCHULTZ Nick, Team BikeExchange
+197, STANNARD Robert, Team BikeExchange
+201, BARDET Romain, Team DSM
+202, ARENSMAN Thymen, Team DSM
+203, COMBAUD Romain, Team DSM
+204, HAMILTON Chris, Team DSM
+205, NIEUWENHUIS Joris, Team DSM
+206, TUSVELD Martijn, Team DSM
+207, VERMAERKE Kevin, Team DSM
+211, CLARKE Simon, Team Qhubeka-Assos
+212, GOGL Michael, Team Qhubeka-Assos
+213, LINDEMAN Bert-Jan, Team Qhubeka-Assos
+214, POWER Robert, Team Qhubeka-Assos
+215, SCHMID Mauro, Team Qhubeka-Assos
+216, VACEK Karel, Team Qhubeka-Assos
+217, VINJEBO Emil, Team Qhubeka-Assos
+221, BRAMBILLA Gianluca, Trek-Segafredo
+222, CONCI Nicola, Trek-Segafredo
+223, GHEBREIGZABHIER Amanuel, Trek-Segafredo
+224, MOLLEMA Bauke, Trek-Segafredo
+225, NIBALI Antonio, Trek-Segafredo
+226, SIMMONS Quinn, Trek-Segafredo
+227, SKUJIŅŠ Toms, Trek-Segafredo
+231, POGAČAR Tadej, UAE Team Emirates
+232, CONTI Valerio, UAE Team Emirates
+233, FORMOLO Davide, UAE Team Emirates
+234, LAENGEN Vegard Stake, UAE Team Emirates
+235, MARCATO Marco, UAE Team Emirates
+236, POLANC Jan, UAE Team Emirates
+237, RIABUSHENKO Alexandr, UAE Team Emirates
+241, BERTAZZO Liam, Vini Zabù
+242, BEVILACQUA Mattia, Vini Zabù
+243, DI RENZO Andrea, Vini Zabù
+244, FRAPPORTI Marco, Vini Zabù
+245, GRADEK Kamil, Vini Zabù
+246, ORRICO Davide, Vini Zabù
+247, PETELIN Jan, Vini Zabù

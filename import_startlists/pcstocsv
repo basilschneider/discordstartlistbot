@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+
+pcs="${1}"
+csv="${1%.txt}".csv
+
+nRidersPerTeam=8
+
+echo "This should list teams only"
+awk \
+    -v n="${nRidersPerTeam}" \
+    '(NR-1) % (n+1) == 0 {print(NR, $0)}' \
+    < "${pcs}"
+
+awk \
+    -F '.' \
+    -v n="${nRidersPerTeam}" \
+    'BEGIN{
+        print("number, name, team")
+    }
+    {
+        if ((NR-1) % (n+1) == 0){
+            team=$2
+        }else{
+            number=$1; name=$2
+            printf "%s,%s,%s\n", number, name, team
+        }
+    }' \
+    < "${pcs}" > "${csv}"

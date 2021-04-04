@@ -1,0 +1,169 @@
+number, name, team
+1, VALVERDE Alejandro, Movistar Team
+2, MAS Enric, Movistar Team
+3, CATALDO Dario, Movistar Team
+4, VERONA Carlos, Movistar Team
+5, SAMITIER Sergio, Movistar Team
+6, PEDRERO Antonio, Movistar Team
+7, SOLER Marc, Movistar Team
+11, BENNETT George, Team Jumbo-Visma
+12, KUSS Sepp, Team Jumbo-Visma
+13, KRUIJSWIJK Steven, Team Jumbo-Visma
+14, GESINK Robert, Team Jumbo-Visma
+15, BOUWMAN Koen, Team Jumbo-Visma
+16, TOLHOEK Antwan, Team Jumbo-Visma
+17, HARPER Chris, Team Jumbo-Visma
+21, ALMEIDA João, Deceuninck - Quick Step
+22, MASNADA Fausto, Deceuninck - Quick Step
+23, ČERNÝ Josef, Deceuninck - Quick Step
+24, KNOX James, Deceuninck - Quick Step
+25, DEVENYNS Dries, Deceuninck - Quick Step
+26, SERRY Pieter, Deceuninck - Quick Step
+27, CAVAGNA Rémi, Deceuninck - Quick Step
+31, COSTA Rui, UAE-Team Emirates
+32, MCNULTY Brandon, UAE-Team Emirates
+33, HIRSCHI Marc, UAE-Team Emirates
+34, MOLANO Juan Sebastián, UAE-Team Emirates
+35, DOMBROWSKI Joe, UAE-Team Emirates
+36, ARDILA Andrés Camilo, UAE-Team Emirates
+37, DE LA CRUZ David, UAE-Team Emirates
+41, PORTE Richie, INEOS Grenadiers
+42, CARAPAZ Richard, INEOS Grenadiers
+43, YATES Adam, INEOS Grenadiers
+44, THOMAS Geraint, INEOS Grenadiers
+45, DENNIS Rohan, INEOS Grenadiers
+46, CASTROVIEJO Jonathan, INEOS Grenadiers
+47, ROWE Luke, INEOS Grenadiers
+51, HINDLEY Jai, Team DSM
+52, STORER Michael, Team DSM
+53, HAGA Chad, Team DSM
+54, HAMILTON Chris, Team DSM
+55, KANTER Max, Team DSM
+56, ROCHE Nicolas, Team DSM
+57, ARENSMAN Thymen, Team DSM
+61, SAGAN Peter, BORA - hansgrohe
+62, KELDERMAN Wilco, BORA - hansgrohe
+63, KÄMNA Lennard, BORA - hansgrohe
+64, MEEUS Jordi, BORA - hansgrohe
+65, SCHELLING Ide, BORA - hansgrohe
+66, ZWIEHOFF Ben, BORA - hansgrohe
+67, WANDAHL Frederik, BORA - hansgrohe
+71, RODRÍGUEZ Óscar, Astana - Premier Tech
+72, SÁNCHEZ Luis León, Astana - Premier Tech
+73, PRONSKIY Vadim, Astana - Premier Tech
+74, GREGAARD Jonas, Astana - Premier Tech
+75, TEJADA Harold, Astana - Premier Tech
+76, DE BOD Stefan, Astana - Premier Tech
+77, KUDUS Merhawi, Astana - Premier Tech
+81, BRAMBILLA Gianluca, Trek - Segafredo
+82, ELISSONDE Kenny, Trek - Segafredo
+83, LÓPEZ Juan Pedro, Trek - Segafredo
+84, CICCONE Giulio, Trek - Segafredo
+85, RIES Michel, Trek - Segafredo
+86, KAMP Alexander, Trek - Segafredo
+87, SKJELMOSE JENSEN Mattias, Trek - Segafredo
+91, VALTER Attila, Groupama - FDJ
+92, BADILATTI Matteo, Groupama - FDJ
+93, REICHENBACH Sébastien, Groupama - FDJ
+94, DUCHESNE Antoine, Groupama - FDJ
+95, LADAGNOUS Matthieu, Groupama - FDJ
+96, GUGLIELMI Simon, Groupama - FDJ
+97, BONNET William, Groupama - FDJ
+101,GUERREIRO Ruben, EF Education - Nippo
+102,URÁN Rigoberto, EF Education - Nippo
+103,CARTHY Hugh, EF Education - Nippo
+104,CAICEDO Jonathan Klever, EF Education - Nippo
+105,CAMARGO Diego Andrés, EF Education - Nippo
+106,VAN GARDEREN Tejay, EF Education - Nippo
+107,VALGREN Michael, EF Education - Nippo
+111,YATES Simon, Team BikeExchange
+112,CHAVES Esteban, Team BikeExchange
+113,KANGERT Tanel, Team BikeExchange
+114,HAMILTON Lucas, Team BikeExchange
+115,SMITH Dion, Team BikeExchange
+116,BOOKWALTER Brent, Team BikeExchange
+117,SCOTSON Callum, Team BikeExchange
+121,POELS Wout, Bahrain - Victorious
+122,PERNSTEINER Hermann, Bahrain - Victorious
+123,BUITRAGO Santiago, Bahrain - Victorious
+124,MOHORIČ Matej, Bahrain - Victorious
+125,INKELAAR Kevin, Bahrain - Victorious
+126,NOVAK Domen, Bahrain - Victorious
+127,WILLIAMS Stephen, Bahrain - Victorious
+131,VENTURINI Clément, AG2R Citroën Team
+132,CHAMPOUSSIN Clément, AG2R Citroën Team
+133,JUNGELS Bob, AG2R Citroën Team
+134,HÄNNINEN Jaakko, AG2R Citroën Team
+135,GASTAUER Ben, AG2R Citroën Team
+136,GALLOPIN Tony, AG2R Citroën Team
+137,BIDARD François, AG2R Citroën Team
+141,KRON Andreas, Lotto Soudal
+142,DE GENDT Thomas, Lotto Soudal
+143,VANHOUCKE Harm, Lotto Soudal
+144,VAN GILS Maxim, Lotto Soudal
+145,CRAS Steff, Lotto Soudal
+146,MONIQUET Sylvain, Lotto Soudal
+147,MARCZYŃSKI Tomasz, Lotto Soudal
+151,FERNÁNDEZ Rubén, Cofidis, Solutions Crédits
+152,EDET Nicolas, Cofidis, Solutions Crédits
+153,ROCHAS Rémy, Cofidis, Solutions Crédits
+154,HERRADA José, Cofidis, Solutions Crédits
+155,CHAMPION Thomas, Cofidis, Solutions Crédits
+156,BARCELÓ Fernando, Cofidis, Solutions Crédits
+157,BERHANE Natnael, Cofidis, Solutions Crédits
+161,MEINTJES Louis, Intermarché - Wanty - Gobert Matériaux
+162,BAKELANTS Jan, Intermarché - Wanty - Gobert Matériaux
+163,HIRT Jan, Intermarché - Wanty - Gobert Matériaux
+164,TAARAMÄE Rein, Intermarché - Wanty - Gobert Matériaux
+165,PETILLI Simone, Intermarché - Wanty - Gobert Matériaux
+166,EVANS Alexander, Intermarché - Wanty - Gobert Matériaux
+167,BELLICAUD Jeremy, Intermarché - Wanty - Gobert Matériaux
+171,POWER Robert, Team Qhubeka ASSOS
+172,FRANKINY Kilian, Team Qhubeka ASSOS
+173,ARMÉE Sander, Team Qhubeka ASSOS
+174,JANSE VAN RENSBURG Reinardt, Team Qhubeka ASSOS
+175,BROWN Connor, Team Qhubeka ASSOS
+176,VACEK Karel, Team Qhubeka ASSOS
+177,BENNETT Sean, Team Qhubeka ASSOS
+181,FROOME Chris, Israel Start-Up Nation
+182,MARTIN Dan, Israel Start-Up Nation
+183,WOODS Michael, Israel Start-Up Nation
+184,IMPEY Daryl, Israel Start-Up Nation
+185,CATAFORD Alexander, Israel Start-Up Nation
+186,GOLDSTEIN Omer, Israel Start-Up Nation
+187,HOLLENSTEIN Reto, Israel Start-Up Nation
+201,QUINTANA Nairo, Team Arkéa Samsic
+202,DELAPLACE Anthony, Team Arkéa Samsic
+203,OWSIAN Łukasz, Team Arkéa Samsic
+204,LOUVEL Matis, Team Arkéa Samsic
+205,PICHON Laurent, Team Arkéa Samsic
+206,GESBERT Élie, Team Arkéa Samsic
+207,RIOU Alan, Team Arkéa Samsic
+211,ZAKARIN Ilnur, Gazprom - RusVelo
+212,CHERNETSKI Sergei, Gazprom - RusVelo
+213,KOCHETKOV Pavel, Gazprom - RusVelo
+214,KREUZIGER Roman, Gazprom - RusVelo
+215,NYCH Artem, Gazprom - RusVelo
+216,STRAKHOV Dmitry, Gazprom - RusVelo
+217,NEKRASOV Denis, Gazprom - RusVelo
+221,ROSSKOPF Joey, Rally Cycling
+222,MANNION Gavin, Rally Cycling
+223,JOYCE Colin, Rally Cycling
+224,KING Ben, Rally Cycling
+225,ZUKOWSKY Nickolas, Rally Cycling
+226,BROWN Nathan, Rally Cycling
+227,BRITTON Rob, Rally Cycling
+231,MARQUEZ Marti, Equipo Kern Pharma
+232,CASTRILLO Jaime, Equipo Kern Pharma
+233,GALVÁN Francisco, Equipo Kern Pharma
+234,BERRADE Urko, Equipo Kern Pharma
+235,NOVIKOV Savva, Equipo Kern Pharma
+236,MENDEZ Daniel Alejandro, Equipo Kern Pharma
+237,ADRIÀ Roger, Equipo Kern Pharma
+241,MATÉ Luis Ángel, Euskaltel - Euskadi
+242,SOTO Antonio Jesus, Euskaltel - Euskadi
+243,BIZKARRA Mikel, Euskaltel - Euskadi
+244,LOBATO Juan José, Euskaltel - Euskadi
+245,BOU Joan, Euskaltel - Euskadi
+246,ITURRIA Mikel, Euskaltel - Euskadi
+247,MARTÍN Gotzon, Euskaltel - Euskadi

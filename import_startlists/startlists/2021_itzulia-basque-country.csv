@@ -1,0 +1,192 @@
+number, name, team
+1, IZAGIRRE Ion, Astana - Premier Tech
+2, FUGLSANG Jakob, Astana - Premier Tech
+3, ARANBURU Alex, Astana - Premier Tech
+4, DE BOD Stefan, Astana - Premier Tech
+5, FRAILE Omar, Astana - Premier Tech
+6, LUTSENKO Alexey, Astana - Premier Tech
+7, RODRÍGUEZ Óscar, Astana - Premier Tech
+,, Astana - Premier Tech
+11, ALEOTTI Giovanni, BORA - hansgrohe
+12, BENEDETTI Cesare, BORA - hansgrohe
+13, BUCHMANN Emanuel, BORA - hansgrohe
+14, KELDERMAN Wilco, BORA - hansgrohe
+15, KONRAD Patrick, BORA - hansgrohe
+16, SCHACHMANN Maximilian, BORA - hansgrohe
+17, SCHELLING Ide, BORA - hansgrohe
+,, BORA - hansgrohe
+21, CHAVES Esteban, Team BikeExchange
+22, SMITH Dion, Team BikeExchange
+23, NIEVE Mikel, Team BikeExchange
+24, GRMAY Tsgabu, Team BikeExchange
+25, HOWSON Damien, Team BikeExchange
+26, JUUL-JENSEN Christopher, Team BikeExchange
+27, JANSEN Amund Grøndahl, Team BikeExchange
+,, Team BikeExchange
+31, POGAČAR Tadej, UAE-Team Emirates
+32, CONTI Valerio, UAE-Team Emirates
+33, MCNULTY Brandon, UAE-Team Emirates
+34, ULISSI Diego, UAE-Team Emirates
+35, HIRSCHI Marc, UAE-Team Emirates
+36, MAJKA Rafał, UAE-Team Emirates
+37, POLANC Jan, UAE-Team Emirates
+,, UAE-Team Emirates
+41, ARMIRAIL Bruno, Groupama - FDJ
+42, DAVY Clément, Groupama - FDJ
+43, GAUDU David, Groupama - FDJ
+44, LADAGNOUS Matthieu, Groupama - FDJ
+45, SCOTSON Miles, Groupama - FDJ
+46, SEIGLE Romain, Groupama - FDJ
+47, VAN DEN BERG Lars, Groupama - FDJ
+,, Groupama - FDJ
+51, ARCAS Jorge, Movistar Team
+52, CARRETERO Héctor, Movistar Team
+53, MAS Enric, Movistar Team
+54, SAMITIER Sergio, Movistar Team
+55, RUBIO Einer Augusto, Movistar Team
+56, VALVERDE Alejandro, Movistar Team
+57, VERONA Carlos, Movistar Team
+,, Movistar Team
+61, CARTHY Hugh, EF Education - Nippo
+62, CAICEDO Jonathan Klever, EF Education - Nippo
+63, CAMARGO Diego Andrés, EF Education - Nippo
+64, HIGUITA Sergio, EF Education - Nippo
+65, HOWES Alex, EF Education - Nippo
+66, CORT Magnus, EF Education - Nippo
+67, WHELAN James, EF Education - Nippo
+,, EF Education - Nippo
+71, MOLLEMA Bauke, Trek - Segafredo
+72, BERNARD Julien, Trek - Segafredo
+73, CONCI Nicola, Trek - Segafredo
+74, EG Niklas, Trek - Segafredo
+75, KAMP Alexander, Trek - Segafredo
+76, LÓPEZ Juan Pedro, Trek - Segafredo
+77, SKUJIŅŠ Toms, Trek - Segafredo
+,, Trek - Segafredo
+81, CATTANEO Mattia, Deceuninck - Quick Step
+82, ČERNÝ Josef, Deceuninck - Quick Step
+83, GARRISON Ian, Deceuninck - Quick Step
+84, HONORÉ Mikkel Frølich, Deceuninck - Quick Step
+85, KNOX James, Deceuninck - Quick Step
+86, SERRY Pieter, Deceuninck - Quick Step
+87, VANSEVENANT Mauri, Deceuninck - Quick Step
+,, Deceuninck - Quick Step
+91, BARCELÓ Fernando, Cofidis, Solutions Crédits
+92, FERNÁNDEZ Rubén, Cofidis, Solutions Crédits
+93, GESCHKE Simon, Cofidis, Solutions Crédits
+94, HERRADA Jesús, Cofidis, Solutions Crédits
+95, MARTIN Guillaume, Cofidis, Solutions Crédits
+96, EDET Nicolas, Cofidis, Solutions Crédits
+97, PEREZ Anthony, Cofidis, Solutions Crédits
+,, Cofidis, Solutions Crédits
+101,MONIQUET Sylvain, Lotto Soudal
+102,DE GENDT Thomas, Lotto Soudal
+103,HOLMES Matthew, Lotto Soudal
+104,GRIGNARD Sébastien, Lotto Soudal
+105,MARCZYŃSKI Tomasz, Lotto Soudal
+106,CONCA Filippo, Lotto Soudal
+107,OLDANI Stefano, Lotto Soudal
+,, Lotto Soudal
+111,YATES Adam, INEOS Grenadiers
+112,AMADOR Andrey, INEOS Grenadiers
+113,CARAPAZ Richard, INEOS Grenadiers
+114,DE PLUS Laurens, INEOS Grenadiers
+115,DUNBAR Eddie, INEOS Grenadiers
+116,GEOGHEGAN HART Tao, INEOS Grenadiers
+117,SWIFT Ben, INEOS Grenadiers
+,, INEOS Grenadiers
+121,DELACROIX Theo, Intermarché - Wanty - Gobert Matériaux
+122,EIKING Odd Christian, Intermarché - Wanty - Gobert Matériaux
+123,EVANS Alexander, Intermarché - Wanty - Gobert Matériaux
+124,HERMANS Quinten, Intermarché - Wanty - Gobert Matériaux
+125,LAMMERTINK Maurits, Intermarché - Wanty - Gobert Matériaux
+126,ROTA Lorenzo, Intermarché - Wanty - Gobert Matériaux
+127,ZIMMERMANN Georg, Intermarché - Wanty - Gobert Matériaux
+,, Intermarché - Wanty - Gobert Matériaux
+131,COMBAUD Romain, Team DSM
+132,DONOVAN Mark, Team DSM
+133,GALL Felix, Team DSM
+134,LEKNESSUND Andreas, Team DSM
+135,TUSVELD Martijn, Team DSM
+136,VERMAERKE Kevin, Team DSM
+137,VAN WILDER Ilan, Team DSM
+,, Team DSM
+141,ROGLIČ Primož, Team Jumbo-Visma
+142,FOSS Tobias, Team Jumbo-Visma
+143,PFINGSTEN Christoph, Team Jumbo-Visma
+144,HOFSTEDE Lennard, Team Jumbo-Visma
+145,TOLHOEK Antwan, Team Jumbo-Visma
+146,OOMEN Sam, Team Jumbo-Visma
+147,VINGEGAARD Jonas, Team Jumbo-Visma
+,, Team Jumbo-Visma
+151,COSNEFROY Benoît, AG2R Citroën Team
+152,GASTAUER Ben, AG2R Citroën Team
+153,FRANK Mathias, AG2R Citroën Team
+154,O'CONNOR Ben, AG2R Citroën Team
+155,PARET-PEINTRE Aurélien, AG2R Citroën Team
+156,PRODHOMME Nicolas, AG2R Citroën Team
+157,WARBASSE Larry, AG2R Citroën Team
+,, AG2R Citroën Team
+161,WOODS Michael, Israel Start-Up Nation
+162,BEVIN Patrick, Israel Start-Up Nation
+163,CATAFORD Alexander, Israel Start-Up Nation
+164,HERMANS Ben, Israel Start-Up Nation
+165,IMPEY Daryl, Israel Start-Up Nation
+166,NEILANDS Krists, Israel Start-Up Nation
+167,PICCOLI James, Israel Start-Up Nation
+,, Israel Start-Up Nation
+171,LANDA Mikel, Bahrain - Victorious
+172,ARASHIRO Yukiya, Bahrain - Victorious
+173,BILBAO Pello, Bahrain - Victorious
+174,CAPECCHI Eros, Bahrain - Victorious
+175,MÄDER Gino, Bahrain - Victorious
+176,PADUN Mark, Bahrain - Victorious
+177,VALLS Rafael, Bahrain - Victorious
+,, Bahrain - Victorious
+181,ARU Fabio, Team Qhubeka ASSOS
+182,BENNETT Sean, Team Qhubeka ASSOS
+183,CLARKE Simon, Team Qhubeka ASSOS
+,, Team Qhubeka ASSOS
+185,LINDEMAN Bert-Jan, Team Qhubeka ASSOS
+186,SCHMID Mauro, Team Qhubeka ASSOS
+187,FRANKINY Kilian, Team Qhubeka ASSOS
+,, Team Qhubeka ASSOS
+191,LASTRA Jonathan, Caja Rural - Seguros RGA
+192,BARRENETXEA Jon, Caja Rural - Seguros RGA
+193,ABERASTURI Jon, Caja Rural - Seguros RGA
+194,IRISARRI Jon, Caja Rural - Seguros RGA
+195,OSORIO Alejandro, Caja Rural - Seguros RGA
+196,LAZKANO Oier, Caja Rural - Seguros RGA
+197,CEPEDA Jefferson Alveiro, Caja Rural - Seguros RGA
+,, Caja Rural - Seguros RGA
+201,MADRAZO Ángel, Burgos-BH
+202,OKAMIKA Ander, Burgos-BH
+203,NAVARRO Daniel, Burgos-BH
+204,CANAL Carlos, Burgos-BH
+205,CABEDO Óscar, Burgos-BH
+206,EZQUERRA Jesús, Burgos-BH
+207,OSORIO Juan Felipe, Burgos-BH
+,, Burgos-BH
+211,BURGAUDEAU Mathieu, Team Total Direct Energie
+212,DE LA PARTE Víctor, Team Total Direct Energie
+213,DOUBEY Fabien, Team Total Direct Energie
+214,GRELLIER Fabien, Team Total Direct Energie
+215,LATOUR Pierre, Team Total Direct Energie
+216,RODRÍGUEZ Cristián, Team Total Direct Energie
+217,SIMON Julien, Team Total Direct Energie
+,, Team Total Direct Energie
+221,ADRIÀ Roger, Equipo Kern Pharma
+222,GALVÁN Francisco, Equipo Kern Pharma
+223,BERRADE Urko, Equipo Kern Pharma
+224,MARQUEZ Marti, Equipo Kern Pharma
+225,PARRA José Félix, Equipo Kern Pharma
+226,AGIRRE Jon, Equipo Kern Pharma
+227,GARCÍA PIERNA Raúl, Equipo Kern Pharma
+,, Equipo Kern Pharma
+231,ARISTI Mikel, Euskaltel - Euskadi
+232,BIZKARRA Mikel, Euskaltel - Euskadi
+233,CUADRADO Unai, Euskaltel - Euskadi
+234,ITURRIA Mikel, Euskaltel - Euskadi
+235,JUARISTI Txomin, Euskaltel - Euskadi
+236,MARTÍN Gotzon, Euskaltel - Euskadi
+237,MATÉ Luis Ángel, Euskaltel - Euskadi
