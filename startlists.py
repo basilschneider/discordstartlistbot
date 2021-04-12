@@ -51,11 +51,11 @@ async def get_startlist(collectionname, racename, ctx, *args):
                     record = db[collectionname].find_one({'number': islnr})
 
                     # Create response
-                    response += f'[{racename}] {record["number"]} {record["name"]} ({record["team"]})\n'
+                    response += f'\n[{racename}] {record["number"]} {record["name"]} ({record["team"]}) '
                 except TypeError:
-                    response += f'[{racename}] Einen Fahrer mit Nummer {islnr} gibt\'s gar nicht. :-(\n'
+                    response += f'\n[{racename}] Einen Fahrer mit Nummer {islnr} gibt\'s gar nicht. :-( '
             except ValueError:
-                response += f'[{racename}] Was für eine Nummer soll {sslnr} denn sein? :-(\n'
+                response += f'{sslnr} '
                 #response += 'egal, gutr wille war da. es gibt solche tage\n'
 
 
@@ -72,6 +72,6 @@ async def get_startlist(collectionname, racename, ctx, *args):
 #    await get_startlist('2021_gent-wevelgem', 'GW', ctx, *args)
 @bot.command(name='sl', help=race)
 async def sl(ctx, *args):
-    await get_startlist('2021_itzulia-basque-country', '', ctx, *args)
+    await get_startlist('2021_itzulia-basque-country', 'ITZULIA', ctx, *args)
 
 bot.run(TOKEN)
