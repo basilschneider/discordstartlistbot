@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-race=2021_itzulia-basque-country
+race=2021_liege-bastogne
 
 #./pcstocsv startlists/"${race}".txt
 ./mongoimport startlists/"${race}".json
