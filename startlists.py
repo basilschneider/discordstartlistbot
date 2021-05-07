@@ -12,7 +12,7 @@ TOKEN = os.getenv('DISCORD_TOKEN')
 
 bot = commands.Bot(command_prefix='/')
 
-race = 'Strade Bianche 2021'
+#race = 'Strade Bianche 2021'
 
 # MongoDB connection information
 conn_url = 'mongodb+srv://live-radsport:anOrdinaryPassword@cluster0.zywng.mongodb.net/cycling_startlists'
@@ -70,8 +70,8 @@ async def get_startlist(collectionname, racename, ctx, *args):
 #@bot.command(name='gw', help=race)
 #async def gw(ctx, *args):
 #    await get_startlist('2021_gent-wevelgem', 'GW', ctx, *args)
-@bot.command(name='sl', help=race)
+@bot.command(name='sl')
 async def sl(ctx, *args):
-    await get_startlist('2021_liege-bastogne', 'LBL', ctx, *args)
+    await get_startlist('2021_giro', 'Giro', ctx, *args)
 
 bot.run(TOKEN)

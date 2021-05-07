@@ -2,6 +2,7 @@
 
 pcs="${1}"
 csv="${1%.txt}".csv
+json="${1%.txt}".json
 
 nRidersPerTeam=8
 
@@ -11,6 +12,14 @@ awk \
     '(NR-1) % (n+1) == 0 {print(NR, $0)}' \
     < "${pcs}"
 
+echo
+read -p "Do you see teams only listed? - " yn
+case "${yn}" in
+    [yY]* ) echo "Yes. Continue.";;
+    * ) echo "No. Fix it. Exit." && exit 1;;
+esac
+
+echo -n "Create ${csv}... "
 awk \
     -F '.' \
     -v n="${nRidersPerTeam}" \
@@ -19,10 +28,27 @@ awk \
     }
     {
         if ((NR-1) % (n+1) == 0){
-            team=$2
+            sub(/[0-9]* /, "", $0)
+            team=$0
         }else{
             number=$1; name=$2
             printf "%s,%s,%s\n", number, name, team
         }
     }' \
     < "${pcs}" > "${csv}"
+echo "Done."
+
+echo -n "Copy content from ${csv}... "
+xclip -selection clipboard "${csv}"
+echo "Done."
+
+echo "Go here: https://csvjson.com/csv2json"
+echo "Then paste, convert, download."
+read -p "Are you done? - " yn
+case "${yn}" in
+    [yY]* ) echo "Yes. Continue.";;
+    * ) echo "No. Exit." && exit 1;;
+esac
+mv -v ~/Downloads/csvjson.json "${json}"
+
+echo "Bye."

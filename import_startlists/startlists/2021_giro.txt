@@ -1,0 +1,207 @@
+1 INEOS Grenadiers
+1. BERNAL Egan
+2. CASTROVIEJO Jonathan
+3. GANNA Filippo
+4. MARTÍNEZ Daniel Felipe
+5. MOSCON Gianni
+6. NARVÁEZ Jhonatan
+7. PUCCIO Salvatore
+8. SIVAKOV Pavel
+2 AG2R Citroën Team
+11. GALLOPIN Tony
+12. BIDARD François
+13. BOUCHARD Geoffrey
+14. CHAMPOUSSIN Clément
+15. GOUGEARD Alexis
+16. NAESEN Lawrence
+17. VENDRAME Andrea
+18. WARBASSE Larry
+3 Alpecin-Fenix
+21. MERLIER Tim
+22. DE BONDT Dries
+23. JANSSENS Jimmy
+24. KRIEGER Alexander
+25. LEYSEN Senne
+26. RIESEBEEK Oscar
+27. VERMEERSCH Gianni
+28. VERVAEKE Louis
+4 Androni Giocattoli - Sidermec
+31. CEPEDA Jefferson Alexander
+32. PELLAUD Simon
+33. PONOMAR Andrii
+34. RAVANELLI Simone
+35. SEPÚLVEDA Eduardo
+36. TAGLIANI Filippo
+37. TESFATSION Natnael
+38. VENCHIARUTTI Nicola
+5 Astana - Premier Tech
+41. VLASOV Aleksandr
+42. BATTISTELLA Samuele
+43. FELLINE Fabio
+44. IZAGIRRE Gorka
+45. PRONSKIY Vadim
+46. SÁNCHEZ Luis León
+47. SOBRERO Matteo
+48. TEJADA Harold
+6 Bahrain - Victorious
+51. LANDA Mikel
+52. ARASHIRO Yukiya
+53. BILBAO Pello
+54. CARUSO Damiano
+55. MÄDER Gino
+56. MOHORIČ Matej
+57. TRATNIK Jan
+58. VALLS Rafael
+7 Bardiani-CSF-Faizanè
+61. VISCONTI Giovanni
+62. BATTAGLIN Enrico
+63. CARBONI Giovanni
+64. FIORELLI Filippo
+65. GABBURO Davide
+66. MARENGO Umberto
+67. ZANA Filippo
+68. ZOCCARATO Samuele
+8 BORA - hansgrohe
+71. SAGAN Peter
+72. ALEOTTI Giovanni
+73. BENEDETTI Cesare
+74. BODNAR Maciej
+75. BUCHMANN Emanuel
+76. FABBRO Matteo
+77. GROßSCHARTNER Felix
+78. OSS Daniel
+9 Cofidis, Solutions Crédits
+81. VIVIANI Elia
+82. BERHANE Natnael
+83. CONSONNI Simone
+84. EDET Nicolas
+85. LAFAY Victor
+86. ROCHAS Rémy
+87. SABATINI Fabio
+88. VIVIANI Attilio
+10 Deceuninck - Quick Step
+91. EVENEPOEL Remco
+92. ALMEIDA João
+93. CAVAGNA Rémi
+94. HONORÉ Mikkel Frølich
+95. KEISSE Iljo
+96. KNOX James
+97. MASNADA Fausto
+98. SERRY Pieter
+11 EF Education - Nippo
+101.CARTHY Hugh
+102.CAICEDO Jonathan Klever
+103.CARR Simon
+104.GUERREIRO Ruben
+105.KEUKELEIRE Jens
+106.VAN DEN BERG Julius
+107.BETTIOL Alberto
+109.VAN GARDEREN Tejay
+12 EOLO-Kometa
+111.BELLETTI Manuel
+112.ALBANESE Vincenzo
+113.CHRISTIAN Mark
+114.DINA Márton
+115.FORTUNATO Lorenzo
+116.GAVAZZI Francesco
+117.RAVASI Edward
+118.RIVI Samuele
+13 Groupama - FDJ
+121.MOLARD Rudy
+122.BADILATTI Matteo
+123.DUCHESNE Antoine
+124.GUGLIELMI Simon
+125.REICHENBACH Sébastien
+126.SEIGLE Romain
+127.VALTER Attila
+128.VAN DEN BERG Lars
+14 Intermarché - Wanty - Gobert Matériaux
+131.HIRT Jan
+132.HERMANS Quinten
+133.KREDER Wesley
+134.MINALI Riccardo
+135.PASQUALON Andrea
+136.PETILLI Simone
+137.TAARAMÄE Rein
+138.VAN DER HOORN Taco
+15 Israel Start-Up Nation
+141.MARTIN Dan
+142.BEVIN Patrick
+143.BRÄNDLE Matthias
+144.CIMOLAI Davide
+145.DE MARCHI Alessandro
+146.DOWSETT Alex
+147.NEILANDS Krists
+148.NIV Guy
+16 Team Jumbo-Visma
+151.BENNETT George
+152.AFFINI Edoardo
+153.BOUWMAN Koen
+154.DEKKER David
+155.FOSS Tobias
+156.GROENEWEGEN Dylan
+157.MARTENS Paul
+158.VAN EMDEN Jos
+17 Lotto Soudal
+161.EWAN Caleb
+162.DE BUYST Jasper
+163.DE GENDT Thomas
+164.GOOSSENS Kobe
+165.KLUGE Roger
+166.MARCZYŃSKI Tomasz
+167.OLDANI Stefano
+168.VANHOUCKE Harm
+18 Movistar Team
+171.SOLER Marc
+172.CATALDO Dario
+173.JORGENSON Matteo
+174.OLIVEIRA Nelson
+175.PEDRERO Antonio
+176.RUBIO Einer Augusto
+177.TORRES Albert
+178.VILLELLA Davide
+19 Team BikeExchange
+181.YATES Simon
+182.HEPBURN Michael
+183.JUUL-JENSEN Christopher
+184.KANGERT Tanel
+185.MEYER Cameron
+186.NIEVE Mikel
+187.SCHULTZ Nick
+188.SCOTSON Callum
+20 Team DSM
+191.HINDLEY Jai
+192.ARNDT Nikias
+193.BARDET Romain
+194.DENZ Nico
+195.HAMILTON Chris
+196.KANTER Max
+197.ROCHE Nicolas
+198.STORER Michael
+21 Team Qhubeka ASSOS
+201.NIZZOLO Giacomo
+202.CAMPENAERTS Victor
+203.FRANKINY Kilian
+204.LINDEMAN Bert-Jan
+205.POZZOVIVO Domenico
+206.SCHMID Mauro
+207.WALSCHEID Max
+208.WIŚNIOWSKI Łukasz
+22 Trek - Segafredo
+211.NIBALI Vincenzo
+212.BRAMBILLA Gianluca
+213.CICCONE Giulio
+214.DE KORT Koen
+215.GHEBREIGZABHIER Amanuel
+216.MOLLEMA Bauke
+217.MOSCA Jacopo
+218.MOSCHETTI Matteo
+23 UAE-Team Emirates
+221.FORMOLO Davide
+222.CONTI Valerio
+223.COVI Alessandro
+224.DOMBROWSKI Joe
+225.GAVIRIA Fernando
+226.MOLANO Juan Sebastián
+227.RICHEZE Maximiliano
+228.ULISSI Diego
