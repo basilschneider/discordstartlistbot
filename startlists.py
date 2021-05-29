@@ -37,26 +37,22 @@ async def get_startlist(collectionname, racename, ctx, *args):
 
     print(f'[{racename}] User {ctx.author} asks for start number(s) {args}.')
 
-    if str(ctx.author).startswith('caligula'):
-        response = 'gula wieder nur am motschgern. :no:'
-    else:
+    response = ''
+    for sslnr in args:
 
-        response = ''
-        for sslnr in args:
-
+        try:
+            islnr = int(sslnr)
             try:
-                islnr = int(sslnr)
-                try:
-                    # Get record from MongoDB
-                    record = db[collectionname].find_one({'number': islnr})
+                # Get record from MongoDB
+                record = db[collectionname].find_one({'number': islnr})
 
-                    # Create response
-                    response += f'\n[{racename}] {record["number"]} {record["name"]} ({record["team"]}) '
-                except TypeError:
-                    response += f'\n[{racename}] Einen Fahrer mit Nummer {islnr} gibt\'s gar nicht. :-( '
-            except ValueError:
-                response += f'{sslnr} '
-                #response += 'egal, gutr wille war da. es gibt solche tage\n'
+                # Create response
+                response += f'\n[{racename}] {record["number"]} {record["name"]} ({record["team"]}) '
+            except TypeError:
+                response += f'\n[{racename}] Einen Fahrer mit Nummer {islnr} gibt\'s gar nicht. :-( '
+        except ValueError:
+            response += f'{sslnr} '
+            #response += 'egal, gutr wille war da. es gibt solche tage\n'
 
 
     # Send response
