@@ -1,0 +1,169 @@
+number, name, team
+1, VALGREN Michael,EF Education - Nippo
+2, BARTA Will,EF Education - Nippo
+3, CRADDOCK Lawson,EF Education - Nippo
+4, EL FARES Julien,EF Education - Nippo
+5, MORTON Lachlan,EF Education - Nippo
+6, NAKANE Hideto,EF Education - Nippo
+7, OWEN Logan,EF Education - Nippo
+DS: KLIER Andreas,VANMARCKE Ken,,EF Education - Nippo
+11, GAUDU David,Groupama - FDJ
+12, ARMIRAIL Bruno,Groupama - FDJ
+13, BONNET William,Groupama - FDJ
+14, GENIETS Kevin,Groupama - FDJ
+15, LADAGNOUS Matthieu,Groupama - FDJ
+16, LE GAC Olivier,Groupama - FDJ
+17, MADOUAS Valentin,Groupama - FDJ
+DS: BRICAUD Thierry,MADIOT Yvon,,Groupama - FDJ
+21, MARTIN Guillaume,Cofidis, Solutions Crédits
+22, GESCHKE Simon,Cofidis, Solutions Crédits
+23, HAAS Nathan,Cofidis, Solutions Crédits
+24, MORIN Emmanuel,Cofidis, Solutions Crédits
+25, PEREZ Anthony,Cofidis, Solutions Crédits
+26, PÉRICHON Pierre-Luc,Cofidis, Solutions Crédits
+27, VANBILSEN Kenneth,Cofidis, Solutions Crédits
+DS: DELOEUIL Alain,GUIBERTEAU Christian,,Cofidis, Solutions Crédits
+31, THOMAS Geraint,INEOS Grenadiers
+32, AMADOR Andrey,INEOS Grenadiers
+33, GEOGHEGAN HART Tao,INEOS Grenadiers
+34, KWIATKOWSKI Michał,INEOS Grenadiers
+35, PORTE Richie,INEOS Grenadiers
+36, RODRIGUEZ Carlos,INEOS Grenadiers
+37, VAN BAARLE Dylan,INEOS Grenadiers
+DS: RASCH Gabriel,KNAVEN Servais,,INEOS Grenadiers
+41, KRUIJSWIJK Steven,Team Jumbo-Visma
+42, GESINK Robert,Team Jumbo-Visma
+43, HOFSTEDE Lennard,Team Jumbo-Visma
+44, KUSS Sepp,Team Jumbo-Visma
+45, MARTIN Tony,Team Jumbo-Visma
+46, ROOSEN Timo,Team Jumbo-Visma
+47, VINGEGAARD Jonas,Team Jumbo-Visma
+DS: NIERMANN Grischa,ZEEMAN Merijn,,Team Jumbo-Visma
+51, LÓPEZ Miguel Ángel,Movistar Team
+52, ARCAS Jorge,Movistar Team
+53, ERVITI Imanol,Movistar Team
+54, MAS Enric,Movistar Team
+55, ROJAS José Joaquín,Movistar Team
+56, VALVERDE Alejandro,Movistar Team
+57, VERONA Carlos,Movistar Team
+DS: ARRIETA José Luis,LASTRAS Pablo,,Movistar Team
+61, KELDERMAN Wilco,BORA - hansgrohe
+62, GAMPER Patrick,BORA - hansgrohe
+63, KONRAD Patrick,BORA - hansgrohe
+64, POLITT Nils,BORA - hansgrohe
+65, PÖSTLBERGER Lukas,BORA - hansgrohe
+66, SCHWARZMANN Michael,BORA - hansgrohe
+67, WANDAHL Frederik,BORA - hansgrohe
+DS: POITSCHKE Enrico,SCHULZE André,,BORA - hansgrohe
+71, O'CONNOR Ben,AG2R Citroën Team
+72, GODON Dorian,AG2R Citroën Team
+73, HÄNNINEN Jaakko,AG2R Citroën Team
+74, NAESEN Oliver,AG2R Citroën Team
+75, PARET-PEINTRE Aurélien,AG2R Citroën Team
+76, VAN AVERMAET Greg,AG2R Citroën Team
+77, VENTURINI Clément,AG2R Citroën Team
+DS: JURDIE Julien,JANNEL Didier,,AG2R Citroën Team
+81, FROOME Chris,Israel Start-Up Nation
+82, CATAFORD Alexander,Israel Start-Up Nation
+83, GOLDSTEIN Omer,Israel Start-Up Nation
+84, HERMANS Ben,Israel Start-Up Nation
+85, HOLLENSTEIN Reto,Israel Start-Up Nation
+86, RENARD Alexis,Israel Start-Up Nation
+87, WÜRTZ SCHMIDT Mads,Israel Start-Up Nation
+DS: VERBRUGGHE Rik,GUERRERO CELAYA Oscar,,Israel Start-Up Nation
+91, IZAGIRRE Ion,Astana - Premier Tech
+92, ARANBURU Alex,Astana - Premier Tech
+93, GRUZDEV Dmitriy,Astana - Premier Tech
+94, LUTSENKO Alexey,Astana - Premier Tech
+95, NATAROV Yuriy,Astana - Premier Tech
+96, PERRY Benjamin,Astana - Premier Tech
+97, RODRÍGUEZ Óscar,Astana - Premier Tech
+DS: FOFONOV Dmitriy,BAUER Steve,,Astana - Premier Tech
+101,QUINTANA Nairo,Team Arkéa Samsic
+102,ANACONA Winner,Team Arkéa Samsic
+103,BARGUIL Warren,Team Arkéa Samsic
+104,DELAPLACE Anthony,Team Arkéa Samsic
+105,OWSIAN Łukasz,Team Arkéa Samsic
+106,PICHON Laurent,Team Arkéa Samsic
+107,RUSSO Clément,Team Arkéa Samsic
+DS: LEDANOIS Yvon,HINAULT Sébastien,,Team Arkéa Samsic
+111,WELLENS Tim,Lotto Soudal
+112,CRAS Steff,Lotto Soudal
+113,GRIGNARD Sébastien,Lotto Soudal
+114,HOLMES Matthew,Lotto Soudal
+115,MONIQUET Sylvain,Lotto Soudal
+116,SWEENY Harry,Lotto Soudal
+117,VAN MOER Brent,Lotto Soudal
+DS: MONFORT Maxime,FRISON Herman,,Lotto Soudal
+121,TEUNS Dylan,Bahrain - Victorious
+122,BUITRAGO Santiago,Bahrain - Victorious
+123,CAPECCHI Eros,Bahrain - Victorious
+124,COLBRELLI Sonny,Bahrain - Victorious
+125,HAIG Jack,Bahrain - Victorious
+126,HALLER Marco,Bahrain - Victorious
+127,PADUN Mark,Bahrain - Victorious
+DS: ALDAG Rolf,FLORENCIO Xavier,ALDAG Rolf,FLORENCIO Xavier,,Bahrain - Victorious
+131,ARDILA Andrés Camilo,UAE-Team Emirates
+132,BJERG Mikkel,UAE-Team Emirates
+133,BYSTRØM Sven Erik,UAE-Team Emirates
+134,DOMBROWSKI Joe,UAE-Team Emirates
+135,KRISTOFF Alexander,UAE-Team Emirates
+136,MCNULTY Brandon,UAE-Team Emirates
+137,OLIVEIRA Ivo,UAE-Team Emirates
+DS: PEIPER Allan,WAKEFIELD John,,UAE-Team Emirates
+141,SÉNÉCHAL Florian,Deceuninck - Quick Step
+142,ARCHBOLD Shane,Deceuninck - Quick Step
+143,ASGREEN Kasper,Deceuninck - Quick Step
+144,ČERNÝ Josef,Deceuninck - Quick Step
+145,GARRISON Ian,Deceuninck - Quick Step
+146,JAKOBSEN Fabio,Deceuninck - Quick Step
+147,STEELS Stijn,Deceuninck - Quick Step
+DS: PEETERS Wilfried,HOLM SØRENSEN Brian,,Deceuninck - Quick Step
+151,RIES Michel,Trek - Segafredo
+152,BERNARD Julien,Trek - Segafredo
+153,ELISSONDE Kenny,Trek - Segafredo
+154,SKJELMOSE JENSEN Mattias,Trek - Segafredo
+155,MULLEN Ryan,Trek - Segafredo
+156,PEDERSEN Mads,Trek - Segafredo
+157,STUYVEN Jasper,Trek - Segafredo
+DS: DE JONGH Steven,POPOVYCH Yaroslav,,Trek - Segafredo
+161,COLLEONI Kevin,Team BikeExchange
+162,BOOKWALTER Brent,Team BikeExchange
+163,GRMAY Tsgabu,Team BikeExchange
+164,GROVES Kaden,Team BikeExchange
+165,HOWSON Damien,Team BikeExchange
+166,PEÁK Barnabás,Team BikeExchange
+167,ZEITS Andrey,Team BikeExchange
+DS: LAPAGE Lorenzo,PINOTTI Marco,,Team BikeExchange
+171,BRENNER Marco,Team DSM
+172,GALL Felix,Team DSM
+173,HAGA Chad,Team DSM
+174,SALMON Martin,Team DSM
+175,TUSVELD Martijn,Team DSM
+176,VAN WILDER Ilan,Team DSM
+177,VERMAERKE Kevin,Team DSM
+DS: BROEKHUIZEN Wilbert,KEMNA Rudi,,Team DSM
+181,ROLLAND Pierre,B&B Hotels p/b KTM
+182,BONNAMOUR Franck,B&B Hotels p/b KTM
+183,CHEVALIER Maxime,B&B Hotels p/b KTM
+184,GAUTIER Cyril,B&B Hotels p/b KTM
+185,LIETAER Eliot,B&B Hotels p/b KTM
+186,PACHER Quentin,B&B Hotels p/b KTM
+187,SCHÖNBERGER Sebastian,B&B Hotels p/b KTM
+DS: PAUCHARD Gilles,DUMOULIN Samuel,,B&B Hotels p/b KTM
+191,MEINTJES Louis,Intermarché - Wanty - Gobert Matériaux
+192,BAKELANTS Jan,Intermarché - Wanty - Gobert Matériaux
+193,BELLICAUD Jeremy,Intermarché - Wanty - Gobert Matériaux
+194,DELACROIX Theo,Intermarché - Wanty - Gobert Matériaux
+195,DE PLUS Jasper,Intermarché - Wanty - Gobert Matériaux
+196,VAN MELSEN Kévin,Intermarché - Wanty - Gobert Matériaux
+197,VLIEGEN Loïc,Intermarché - Wanty - Gobert Matériaux
+DS: VAN DER SCHUEREN Hilaire,WELLENS Bart,,Intermarché - Wanty - Gobert Matériaux
+201,ARU Fabio,Team Qhubeka ASSOS
+202,ARMÉE Sander,Team Qhubeka ASSOS
+203,BARBERO Carlos,Team Qhubeka ASSOS
+204,BENNETT Sean,Team Qhubeka ASSOS
+205,GOGL Michael,Team Qhubeka ASSOS
+206,POWER Robert,Team Qhubeka ASSOS
+207,SUNDERLAND Dylan,Team Qhubeka ASSOS
+DS: MICHAELSEN Lars,VANOUDENHOVE Gino,,Team Qhubeka ASSOS

@@ -1,0 +1,189 @@
+1 EF Education - Nippo
+1. VALGREN Michael
+2. BARTA Will
+3. CRADDOCK Lawson
+4. EL FARES Julien
+5. MORTON Lachlan
+6. NAKANE Hideto
+7. OWEN Logan
+DS: KLIER Andreas,VANMARCKE Ken
+2 Groupama - FDJ
+11. GAUDU David
+12. ARMIRAIL Bruno
+13. BONNET William
+14. GENIETS Kevin
+15. LADAGNOUS Matthieu
+16. LE GAC Olivier
+17. MADOUAS Valentin
+DS: BRICAUD Thierry,MADIOT Yvon
+3 Cofidis, Solutions Crédits
+21. MARTIN Guillaume
+22. GESCHKE Simon
+23. HAAS Nathan
+24. MORIN Emmanuel
+25. PEREZ Anthony
+26. PÉRICHON Pierre-Luc
+27. VANBILSEN Kenneth
+DS: DELOEUIL Alain,GUIBERTEAU Christian
+4 INEOS Grenadiers
+31. THOMAS Geraint
+32. AMADOR Andrey
+33. GEOGHEGAN HART Tao
+34. KWIATKOWSKI Michał
+35. PORTE Richie
+36. RODRIGUEZ Carlos
+37. VAN BAARLE Dylan
+DS: RASCH Gabriel,KNAVEN Servais
+5 Team Jumbo-Visma
+41. KRUIJSWIJK Steven
+42. GESINK Robert
+43. HOFSTEDE Lennard
+44. KUSS Sepp
+45. MARTIN Tony
+46. ROOSEN Timo
+47. VINGEGAARD Jonas
+DS: NIERMANN Grischa,ZEEMAN Merijn
+6 Movistar Team
+51. LÓPEZ Miguel Ángel
+52. ARCAS Jorge
+53. ERVITI Imanol
+54. MAS Enric
+55. ROJAS José Joaquín
+56. VALVERDE Alejandro
+57. VERONA Carlos
+DS: ARRIETA José Luis,LASTRAS Pablo
+7 BORA - hansgrohe
+61. KELDERMAN Wilco
+62. GAMPER Patrick
+63. KONRAD Patrick
+64. POLITT Nils
+65. PÖSTLBERGER Lukas
+66. SCHWARZMANN Michael
+67. WANDAHL Frederik
+DS: POITSCHKE Enrico,SCHULZE André
+8 AG2R Citroën Team
+71. O'CONNOR Ben
+72. GODON Dorian
+73. HÄNNINEN Jaakko
+74. NAESEN Oliver
+75. PARET-PEINTRE Aurélien
+76. VAN AVERMAET Greg
+77. VENTURINI Clément
+DS: JURDIE Julien,JANNEL Didier
+9 Israel Start-Up Nation
+81. FROOME Chris
+82. CATAFORD Alexander
+83. GOLDSTEIN Omer
+84. HERMANS Ben
+85. HOLLENSTEIN Reto
+86. RENARD Alexis
+87. WÜRTZ SCHMIDT Mads
+DS: VERBRUGGHE Rik,GUERRERO CELAYA Oscar
+10 Astana - Premier Tech
+91. IZAGIRRE Ion
+92. ARANBURU Alex
+93. GRUZDEV Dmitriy
+94. LUTSENKO Alexey
+95. NATAROV Yuriy
+96. PERRY Benjamin
+97. RODRÍGUEZ Óscar
+DS: FOFONOV Dmitriy,BAUER Steve
+11 Team Arkéa Samsic
+101.QUINTANA Nairo
+102.ANACONA Winner
+103.BARGUIL Warren
+104.DELAPLACE Anthony
+105.OWSIAN Łukasz
+106.PICHON Laurent
+107.RUSSO Clément
+DS: LEDANOIS Yvon,HINAULT Sébastien
+12 Lotto Soudal
+111.WELLENS Tim
+112.CRAS Steff
+113.GRIGNARD Sébastien
+114.HOLMES Matthew
+115.MONIQUET Sylvain
+116.SWEENY Harry
+117.VAN MOER Brent
+DS: MONFORT Maxime,FRISON Herman
+13 Bahrain - Victorious
+121.TEUNS Dylan
+122.BUITRAGO Santiago
+123.CAPECCHI Eros
+124.COLBRELLI Sonny
+125.HAIG Jack
+126.HALLER Marco
+127.PADUN Mark
+DS: ALDAG Rolf,FLORENCIO Xavier,ALDAG Rolf,FLORENCIO Xavier
+14 UAE-Team Emirates
+131.ARDILA Andrés Camilo
+132.BJERG Mikkel
+133.BYSTRØM Sven Erik
+134.DOMBROWSKI Joe
+135.KRISTOFF Alexander
+136.MCNULTY Brandon
+137.OLIVEIRA Ivo
+DS: PEIPER Allan,WAKEFIELD John
+15 Deceuninck - Quick Step
+141.SÉNÉCHAL Florian
+142.ARCHBOLD Shane
+143.ASGREEN Kasper
+144.ČERNÝ Josef
+145.GARRISON Ian
+146.JAKOBSEN Fabio
+147.STEELS Stijn
+DS: PEETERS Wilfried,HOLM SØRENSEN Brian
+16 Trek - Segafredo
+151.RIES Michel
+152.BERNARD Julien
+153.ELISSONDE Kenny
+154.SKJELMOSE JENSEN Mattias
+155.MULLEN Ryan
+156.PEDERSEN Mads
+157.STUYVEN Jasper
+DS: DE JONGH Steven,POPOVYCH Yaroslav
+17 Team BikeExchange
+161.COLLEONI Kevin
+162.BOOKWALTER Brent
+163.GRMAY Tsgabu
+164.GROVES Kaden
+165.HOWSON Damien
+166.PEÁK Barnabás
+167.ZEITS Andrey
+DS: LAPAGE Lorenzo,PINOTTI Marco
+18 Team DSM
+171.BRENNER Marco
+172.GALL Felix
+173.HAGA Chad
+174.SALMON Martin
+175.TUSVELD Martijn
+176.VAN WILDER Ilan
+177.VERMAERKE Kevin
+DS: BROEKHUIZEN Wilbert,KEMNA Rudi
+19 B&B Hotels p/b KTM
+181.ROLLAND Pierre
+182.BONNAMOUR Franck
+183.CHEVALIER Maxime
+184.GAUTIER Cyril
+185.LIETAER Eliot
+186.PACHER Quentin
+187.SCHÖNBERGER Sebastian
+DS: PAUCHARD Gilles,DUMOULIN Samuel
+20 Intermarché - Wanty - Gobert Matériaux
+191.MEINTJES Louis
+192.BAKELANTS Jan
+193.BELLICAUD Jeremy
+194.DELACROIX Theo
+195.DE PLUS Jasper
+196.VAN MELSEN Kévin
+197.VLIEGEN Loïc
+DS: VAN DER SCHUEREN Hilaire,WELLENS Bart
+21 Team Qhubeka ASSOS
+201.ARU Fabio
+202.ARMÉE Sander
+203.BARBERO Carlos
+204.BENNETT Sean
+205.GOGL Michael
+206.POWER Robert
+207.SUNDERLAND Dylan
+DS: MICHAELSEN Lars,VANOUDENHOVE Gino
