@@ -68,6 +68,6 @@ async def get_startlist(collectionname, racename, ctx, *args):
 #    await get_startlist('2021_gent-wevelgem', 'GW', ctx, *args)
 @bot.command(name='sl')
 async def sl(ctx, *args):
-    await get_startlist('2021_tds', 'TDS', ctx, *args)
+    await get_startlist('2021_tour-de-france', 'TDF', ctx, *args)
 
 bot.run(TOKEN)
