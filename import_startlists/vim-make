@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-race=2021_tour-de-france
+race=2021_olympics
 
 #./pcstocsv startlists/"${race}".txt
 ./mongoimport startlists/"${race}".json
