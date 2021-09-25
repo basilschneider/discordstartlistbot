@@ -1,0 +1,286 @@
+number, name, team
+1, VAN AVERMAET Greg,Belgium
+2, BENOOT Tiesj,Belgium
+3, EVENEPOEL Remco,Belgium
+4, VAN AERT Wout,Belgium
+5, VANSEVENANT Mauri,Belgium
+6, POGAČAR Tadej,Slovenia
+7, POLANC Jan,Slovenia
+8, ROGLIČ Primož,Slovenia
+9, TRATNIK Jan,Slovenia
+,,Slovenia
+10, CAVAGNA Rémi,France
+11, COSNEFROY Benoît,France
+12, ELISSONDE Kenny,France
+13, GAUDU David,France
+14, MARTIN Guillaume,France
+15, FRAILE Omar,Spain
+16, HERRADA Jesús,Spain
+17, IZAGIRRE Gorka,Spain
+18, IZAGIRRE Ion,Spain
+19, VALVERDE Alejandro,Spain
+20, GEOGHEGAN HART Tao,Great Britain
+21, THOMAS Geraint,Great Britain
+22, YATES Simon,Great Britain
+23, YATES Adam,Great Britain
+,,Great Britain
+24, BETTIOL Alberto,Italy
+25, CARUSO Damiano,Italy
+26, CICCONE Giulio,Italy
+27, MOSCON Gianni,Italy
+28, NIBALI Vincenzo,Italy
+29, DUMOULIN Tom,Netherlands
+30, HAVIK Yoeri,Netherlands
+31, KELDERMAN Wilco,Netherlands
+32, MOLLEMA Bauke,Netherlands
+33, VAN BAARLE Dylan,Netherlands
+34, CHAVES Esteban,Colombia
+35, HIGUITA Sergio,Colombia
+37, QUINTANA Nairo,Colombia
+38, URÁN Rigoberto,Colombia
+,,Colombia
+40, DURBRIDGE Luke,Australia
+41, HAMILTON Lucas,Australia
+42, PORTE Richie,Australia
+,,Australia
+,,Australia
+43, ASGREEN Kasper,Denmark
+44, FUGLSANG Jakob,Denmark
+45, VALGREN Michael,Denmark
+46, JUUL-JENSEN Christopher,Denmark
+,,Denmark
+47, ARNDT Nikias,Germany
+48, BUCHMANN Emanuel,Germany
+,,Germany
+50, SCHACHMANN Maximilian,Germany
+,,Germany
+51, HIRSCHI Marc,Switzerland
+52, KÜNG Stefan,Switzerland
+53, MÄDER Gino,Switzerland
+54, SCHÄR Michael,Switzerland
+,,Switzerland
+55, ALMEIDA João,Portugal
+56, OLIVEIRA Nelson,Portugal
+,,Portugal
+,,Portugal
+,,Portugal
+57, DUNBAR Eddie,Ireland
+58, MARTIN Dan,Ireland
+59, ROCHE Nicolas,Ireland
+,,Ireland
+,,Ireland
+60, CARAPAZ Richard,Ecuador
+61, NARVÁEZ Jhonatan,Ecuador
+,,Ecuador
+,,Ecuador
+,,Ecuador
+62, SIVAKOV Pavel,Russia
+63, VLASOV Aleksandr,Russia
+64, ZAKARIN Ilnur,Russia
+,,Russia
+,,Russia
+65, FOSS Tobias,Norway
+66, HOELGAARD Markus,Norway
+67, JOHANNESSEN Tobias Halland,Norway
+68, LEKNESSUND Andreas,Norway
+,,Norway
+69, BODNAR Maciej,Poland
+70, KWIATKOWSKI Michał,Poland
+71, MAJKA Rafał,Poland
+,,Poland
+,,Poland
+72, BENNETT George,New Zealand
+73, BEVIN Patrick,New Zealand
+,,New Zealand
+,,New Zealand
+,,New Zealand
+74, DE BOD Stefan,South Africa
+75, DLAMINI Nic,South Africa
+76, GIBBONS Ryan,South Africa
+,,South Africa
+,,South Africa
+77, BOIVIN Guillaume,Canada
+78, HOULE Hugo,Canada
+79, WOODS Michael,Canada
+,,Canada
+,,Canada
+80, KUKRLE Michael,Czech Republic
+,,Czech Republic
+82, ŠTYBAR Zdeněk,Czech Republic
+,,Czech Republic
+,,Czech Republic
+83, KONRAD Patrick,Austria
+84, MÜHLBERGER Gregor,Austria
+85, PERNSTEINER Hermann,Austria
+,,Austria
+,,Austria
+86, CRADDOCK Lawson,United States
+87, MCNULTY Brandon,United States
+,,United States
+,,United States
+,,United States
+88, SAGAN Juraj,Slovakia
+89, KUBIŠ Lukáš,Slovakia
+,,Slovakia
+,,Slovakia
+,,Slovakia
+90, GRUZDEV Dmitriy,Kazakhstan
+91, LUTSENKO Alexey,Kazakhstan
+92, PRONSKIY Vadim,Kazakhstan
+,,Kazakhstan
+,,Kazakhstan
+93, BUDYAK Anatoliy,Ukraine
+,,Ukraine
+,,Ukraine
+,,Ukraine
+,,Ukraine
+94, KANGERT Tanel,Estonia
+95, PRUUS Peeter,Estonia
+,,Estonia
+,,Estonia
+,,Estonia
+96, GHEBREIGZABHIER Amanuel,Eritrea
+97, KUDUS Merhawi,Eritrea
+,,Eritrea
+,,Eritrea
+,,Eritrea
+98, NEILANDS Krists,Latvia
+99, SKUJIŅŠ Toms,Latvia
+,,Latvia
+,,Latvia
+,,Latvia
+100,GENIETS Kevin,Luxembourg
+101,RIES Michel,Luxembourg
+,,Luxembourg
+,,Luxembourg
+,,Luxembourg
+102,RIABUSHENKO Alexandr,Belarus
+,,Belarus
+,,Belarus
+,,Belarus
+,,Belarus
+103,LAGAB Azzedine,Algeria
+104,MANSOURI Hamza,Algeria
+,,Algeria
+,,Algeria
+,,Algeria
+105,GROSU Eduard-Michael,Romania
+,,Romania
+,,Romania
+,,Romania
+,,Romania
+106,ŠIŠKEVIČIUS Evaldas,Lithuania
+,,Lithuania
+,,Lithuania
+,,Lithuania
+,,Lithuania
+107,VALTER Attila,Hungary
+,,Hungary
+,,Hungary
+,,Hungary
+,,Hungary
+108,TZORTZAKIS Polychronis,Greece
+,,Greece
+,,Greece
+,,Greece
+,,Greece
+109,JURADO Christofer Robín,Panama
+,,Panama
+,,Panama
+,,Panama
+,,Panama
+110,FRAYRE Eder,Mexico
+,,Mexico
+,,Mexico
+,,Mexico
+,,Mexico
+111,ARASHIRO Yukiya,Japan
+112,MASUDA Nariyuki,Japan
+,,Japan
+,,Japan
+,,Japan
+113,RODAS Manuel,Guatemala
+,,Guatemala
+,,Guatemala
+,,Guatemala
+,,Guatemala
+114,MUGISHA Moise,Rwanda
+,,Rwanda
+,,Rwanda
+,,Rwanda
+,,Rwanda
+115,DE LANGE Tristan,Namibia
+,,Namibia
+,,Namibia
+,,Namibia
+,,Namibia
+116,AULAR Orluis,Venezuela
+,,Venezuela
+,,Venezuela
+,,Venezuela
+,,Venezuela
+117,BALKAN Onur,Turkey
+118,ÖRKEN Ahmet,Turkey
+,,Turkey
+,,Turkey
+,,Turkey
+119,RUMAC Josip,Croatia
+,,Croatia
+,,Croatia
+,,Croatia
+,,Croatia
+120,DAUMONT Paul,Burkina Faso
+,,Burkina Faso
+,,Burkina Faso
+,,Burkina Faso
+,,Burkina Faso
+121,WANG Ruidong,China
+,,China
+,,China
+,,China
+,,China
+122,SAFARZADEH Saeeid,Iran
+,,Iran
+,,Iran
+,,Iran
+,,Iran
+123,SEPÚLVEDA Eduardo,Argentina
+,,Argentina
+,,Argentina
+,,Argentina
+,,Argentina
+124,KHALMURATOV Muradjan,Uzbekistan
+,,Uzbekistan
+,,Uzbekistan
+,,Uzbekistan
+,,Uzbekistan
+125,EL KOURAJI Mohcine,Morocco
+,,Morocco
+,,Morocco
+,,Morocco
+,,Morocco
+126,AMADOR Andrey,Costa Rica
+,,Costa Rica
+,,Costa Rica
+,,Costa Rica
+,,Costa Rica
+127,ASADOV Elchin,Azerbaijan
+,,Azerbaijan
+,,Azerbaijan
+,,Azerbaijan
+,,Azerbaijan
+128,NAVARRO Royner,Peru
+,,Peru
+,,Peru
+,,Peru
+,,Peru
+129,FENG Chun Kai,Taiwan
+,,Taiwan
+,,Taiwan
+,,Taiwan
+,,Taiwan
+130,CHOI Hiu Fung,Hong Kong
+,,Hong Kong
+,,Hong Kong
+,,Hong Kong
+,,Hong Kong

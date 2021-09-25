@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-race=2021_vuelta-a-espagna
+race=2021_wm
 
 #./pcstocsv startlists/"${race}".txt
 ./mongoimport startlists/"${race}".json

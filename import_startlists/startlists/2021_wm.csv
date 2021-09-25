@@ -1,0 +1,398 @@
+number, name, team
+1, ALAPHILIPPE Julian,France
+2, CAVAGNA Rémi,France
+3, COSNEFROY Benoît,France
+4, DÉMARE Arnaud,France
+5, LAPORTE Christophe,France
+6, MADOUAS Valentin,France
+7, RUSSO Clément,France
+8, SÉNÉCHAL Florian,France
+9, TURGIS Anthony,France
+10, BENOOT Tiesj,Belgium
+11, CAMPENAERTS Victor,Belgium
+12, DECLERCQ Tim,Belgium
+13, EVENEPOEL Remco,Belgium
+14, LAMPAERT Yves,Belgium
+15, STUYVEN Jasper,Belgium
+16, TEUNS Dylan,Belgium
+17, VAN AERT Wout,Belgium
+,,Belgium
+18, MEZGEC Luka,Slovenia
+19, MOHORIČ Matej,Slovenia
+20, NOVAK Domen,Slovenia
+21, PER David,Slovenia
+22, POGAČAR Tadej,Slovenia
+23, POLANC Jan,Slovenia
+24, ROGLIČ Primož,Slovenia
+25, TRATNIK Jan,Slovenia
+,,Slovenia
+26, BAGIOLI Andrea,Italy
+27, BALLERINI Davide,Italy
+28, COLBRELLI Sonny,Italy
+29, DE MARCHI Alessandro,Italy
+30, MOSCON Gianni,Italy
+31, NIZZOLO Giacomo,Italy
+32, TRENTIN Matteo,Italy
+33, ULISSI Diego,Italy
+,,Italy
+34, CAVENDISH Mark,Great Britain
+35, HAYTER Ethan,Great Britain
+36, PIDCOCK Thomas,Great Britain
+37, ROWE Luke,Great Britain
+38, STEWART Jake,Great Britain
+39, SWIFT Ben,Great Britain
+40, SWIFT Connor,Great Britain
+41, WRIGHT Fred,Great Britain
+,,Great Britain
+42, EENKHOORN Pascal,Netherlands
+43, LANGEVELD Sebastian,Netherlands
+44, MOLLEMA Bauke,Netherlands
+45, RIESEBEEK Oscar,Netherlands
+46, TEUNISSEN Mike,Netherlands
+47, VAN BAARLE Dylan,Netherlands
+48, VAN DER POEL Mathieu,Netherlands
+49, VAN POPPEL Danny,Netherlands
+,,Netherlands
+50, ASGREEN Kasper,Denmark
+51, BJERG Mikkel,Denmark
+52, HONORÉ Mikkel Frølich,Denmark
+53, VALGREN Michael,Denmark
+54, KRON Andreas,Denmark
+55, CORT Magnus,Denmark
+56, PEDERSEN Mads,Denmark
+57, WÜRTZ SCHMIDT Mads,Denmark
+,,Denmark
+58, ADRIÀ Roger,Spain
+59, ARANBURU Alex,Spain
+60, ERVITI Imanol,Spain
+61, GARCÍA CORTINA Iván,Spain
+62, IZAGIRRE Gorka,Spain
+63, RODRIGUEZ Carlos,Spain
+64, SERRANO Gonzalo,Spain
+65, MAS Lluís,Spain
+,,Spain
+66, DURBRIDGE Luke,Australia
+67, EWAN Caleb,Australia
+68, HAAS Nathan,Australia
+69, MATTHEWS Michael,Australia
+70, SCHULTZ Nick,Australia
+71, SCOTSON Miles,Australia
+72, STANNARD Robert,Australia
+73, SWEENY Harry,Australia
+,,Australia
+74, CHAVES Esteban,Colombia
+75, GAVIRIA Fernando,Colombia
+76, HERNÁNDEZ José Tito,Colombia
+77, HIGUITA Sergio,Colombia
+78, HODEG Álvaro José,Colombia
+79, MOLANO Juan Sebastián,Colombia
+80, SOTO Nelson Andrés,Colombia
+81, URÁN Rigoberto,Colombia
+,,Colombia
+82, ACKERMANN Pascal,Germany
+83, ARNDT Nikias,Germany
+84, DEGENKOLB John,Germany
+85, POLITT Nils,Germany
+86, SCHACHMANN Maximilian,Germany
+87, ZIMMERMANN Georg,Germany
+,,Germany
+,,Germany
+,,Germany
+88, BISSEGGER Stefan,Switzerland
+89, DILLIER Silvan,Switzerland
+90, HIRSCHI Marc,Switzerland
+91, KÜNG Stefan,Switzerland
+92, LIENHARD Fabian,Switzerland
+93, SCHÄR Michael,Switzerland
+,,Switzerland
+,,Switzerland
+,,Switzerland
+94, ALMEIDA João,Portugal
+95, OLIVEIRA Nelson,Portugal
+96, OLIVEIRA Rui,Portugal
+97, REIS Rafael,Portugal
+98, CARVALHO Andre,Portugal
+,,Portugal
+,,Portugal
+,,Portugal
+,,Portugal
+99, BYSTRØM Sven Erik,Norway
+100, EIKING Odd Christian,Norway
+101, HOELGAARD Markus,Norway
+102, KRISTOFF Alexander,Norway
+103, LAENGEN Vegard Stake,Norway
+104, TILLER Rasmus,Norway
+,,Norway
+,,Norway
+,,Norway
+105, BURBANO Joel Levi,Ecuador
+106, GUAMÁ Byron,Ecuador
+107, HARO Wilson,Ecuador
+108, NOVOA Leonidas Sebastián,Ecuador
+109, PITA Cristian David,Ecuador
+110, QUINTEROS Alexis Benjamin,Ecuador
+,,Ecuador
+,,Ecuador
+,,Ecuador
+111, BOEV Igor,Russia
+112, CHERNETSKI Sergei,Russia
+113, KOCHETKOV Pavel,Russia
+114, NYCH Artem,Russia
+115, RIKUNOV Petr,Russia
+116, STRAKHOV Dmitry,Russia
+,,Russia
+,,Russia
+,,Russia
+117, ANIOŁKOWSKI Stanisław,Poland
+118, BENEDETTI Cesare,Poland
+119, BODNAR Maciej,Poland
+120, GOŁAŚ Michał,Poland
+121, KWIATKOWSKI Michał,Poland
+122, OWSIAN Łukasz,Poland
+,,Poland
+,,Poland
+,,Poland
+123, CARPENTER Robin,United States
+124, CRADDOCK Lawson,United States
+125, JORGENSON Matteo,United States
+126, MCNULTY Brandon,United States
+127, POWLESS Neilson,United States
+128, SIMMONS Quinn,United States
+,,United States
+,,United States
+,,United States
+129, BOIVIN Guillaume,Canada
+130, COTÉ Pier-André,Canada
+131, DUCHESNE Antoine,Canada
+132, HOULE Hugo,Canada
+133, PERRY Benjamin,Canada
+134, ZUKOWSKY Nickolas,Canada
+,,Canada
+,,Canada
+,,Canada
+135, GAMPER Patrick,Austria
+136, GOGL Michael,Austria
+137, HALLER Marco,Austria
+138, SCHÖNBERGER Sebastian,Austria
+,,Austria
+,,Austria
+,,Austria
+,,Austria
+,,Austria
+139, ARCHBOLD Shane,New Zealand
+140, BAUER Jack,New Zealand
+141, BROWN Connor,New Zealand
+142, SCULLY Tom,New Zealand
+,,New Zealand
+,,New Zealand
+,,New Zealand
+,,New Zealand
+,,New Zealand
+144, DUNBAR Eddie,Ireland
+145, MULLEN Ryan,Ireland
+146, TOWNSEND Rory,Ireland
+,,Ireland
+,,Ireland
+,,Ireland
+,,Ireland
+,,Ireland
+,,Ireland
+147, BASSON Gustav,South Africa
+148, GIBBONS Ryan,South Africa
+149, JANSE VAN RENSBURG Reinardt,South Africa
+150, JULIUS Jayde,South Africa
+,,South Africa
+,,South Africa
+,,South Africa
+,,South Africa
+,,South Africa
+151, LAAS Martin,Estonia
+152, LAUK Karl Patrick,Estonia
+153, NISU Oskar,Estonia
+154, VAHTRA Norman,Estonia
+,,Estonia
+,,Estonia
+,,Estonia
+,,Estonia
+,,Estonia
+155, FOMINYKH Daniil,Kazakhstan
+156, GIDICH Yevgeniy,Kazakhstan
+157, GRUZDEV Dmitriy,Kazakhstan
+158, NATAROV Yuriy,Kazakhstan
+,,Kazakhstan
+,,Kazakhstan
+,,Kazakhstan
+,,Kazakhstan
+,,Kazakhstan
+159, BAŠKA Erik,Slovakia
+160, SAGAN Juraj,Slovakia
+161, SAGAN Peter,Slovakia
+162, TYBOR Patrik,Slovakia
+,,Slovakia
+,,Slovakia
+,,Slovakia
+,,Slovakia
+,,Slovakia
+163, BERHANE Natnael,Eritrea
+164, EYOB Metkel,Eritrea
+165, KUDUS Merhawi,Eritrea
+166, YEMANE Dawit,Eritrea
+,,Eritrea
+,,Eritrea
+,,Eritrea
+,,Eritrea
+,,Eritrea
+167, ČERNÝ Josef,Czech Republic
+168, KUKRLE Michael,Czech Republic
+169, ŠTYBAR Zdeněk,Czech Republic
+170, VAKOČ Petr,Czech Republic
+,,Czech Republic
+,,Czech Republic
+,,Czech Republic
+,,Czech Republic
+,,Czech Republic
+171, BUDYAK Anatoliy,Ukraine
+172, KONONENKO Mykhaylo,Ukraine
+173, KULYK Andriy,Ukraine
+174, PREVAR Oleksandr,Ukraine
+,,Ukraine
+,,Ukraine
+,,Ukraine
+,,Ukraine
+,,Ukraine
+175, LIEPIŅŠ Emīls,Latvia
+176, NEILANDS Krists,Latvia
+177, PLUTO Mārtiņš,Latvia
+178, SKUJIŅŠ Toms,Latvia
+,,Latvia
+,,Latvia
+,,Latvia
+,,Latvia
+,,Latvia
+179, ERIKSSON Lucas,Sweden
+180, MAGNUSSON Kim,Sweden
+,,Sweden
+,,Sweden
+,,Sweden
+,,Sweden
+,,Sweden
+,,Sweden
+,,Sweden
+181, ARCHIBOLD Franklin,Panama
+,,Panama
+,,Panama
+,,Panama
+,,Panama
+,,Panama
+,,Panama
+,,Panama
+,,Panama
+182, GENIETS Kevin,Luxembourg
+183, KIRSCH Alex,Luxembourg
+,,Luxembourg
+,,Luxembourg
+,,Luxembourg
+,,Luxembourg
+,,Luxembourg
+,,Luxembourg
+,,Luxembourg
+184, PEÁK Barnabás,Hungary
+,,Hungary
+,,Hungary
+,,Hungary
+,,Hungary
+,,Hungary
+,,Hungary
+,,Hungary
+,,Hungary
+185, RIABUSHENKO Alexandr,Belarus
+,,Belarus
+,,Belarus
+,,Belarus
+,,Belarus
+,,Belarus
+,,Belarus
+,,Belarus
+,,Belarus
+186, GROSU Eduard-Michael,Romania
+,,Romania
+,,Romania
+,,Romania
+,,Romania
+,,Romania
+,,Romania
+,,Romania
+,,Romania
+187, ŠIŠKEVIČIUS Evaldas,Lithuania
+,,Lithuania
+,,Lithuania
+,,Lithuania
+,,Lithuania
+,,Lithuania
+,,Lithuania
+,,Lithuania
+,,Lithuania
+188, TZORTZAKIS Polychronis,Greece
+,,Greece
+,,Greece
+,,Greece
+,,Greece
+,,Greece
+,,Greece
+,,Greece
+,,Greece
+189, FRAYRE Eder,Mexico
+,,Mexico
+,,Mexico
+,,Mexico
+,,Mexico
+,,Mexico
+,,Mexico
+,,Mexico
+,,Mexico
+190, SIRIRONNACHAI Sarawut,Thailand
+,,Thailand
+,,Thailand
+,,Thailand
+,,Thailand
+,,Thailand
+,,Thailand
+,,Thailand
+,,Thailand
+191, SAINBAYAR Jambaljamts,Mongolia
+,,Mongolia
+,,Mongolia
+,,Mongolia
+,,Mongolia
+,,Mongolia
+,,Mongolia
+,,Mongolia
+,,Mongolia
+192, FAGUNDEZ Eric Antonio,Uruguay
+,,Uruguay
+,,Uruguay
+,,Uruguay
+,,Uruguay
+,,Uruguay
+,,Uruguay
+,,Uruguay
+,,Uruguay
+193, AULAR Orluis,Venezuela
+,,Venezuela
+,,Venezuela
+,,Venezuela
+,,Venezuela
+,,Venezuela
+,,Venezuela
+,,Venezuela
+,,Venezuela
+194, SEFA Ylber,Albania
+,,Albania
+,,Albania
+,,Albania
+,,Albania
+,,Albania
+,,Albania
+,,Albania
+,,Albania
+195, ARASHIRO Yukiya,Japan

@@ -1,0 +1,207 @@
+1 Team Jumbo-Visma
+1. ROGLIČ Primož
+2. BOUWMAN Koen
+3. GESINK Robert
+4. HOFSTEDE Lennard
+5. KRUIJSWIJK Steven
+6. KUSS Sepp
+7. OOMEN Sam
+8. VAN HOOYDONCK Nathan
+2 AG2R Citroën Team
+11. BOUCHARD Geoffrey
+12. CALMEJANE Lilian
+13. CHAMPOUSSIN Clément
+14. CHEREL Mikaël
+15. DEWULF Stan
+16. PRODHOMME Nicolas
+17. TOUZÉ Damien
+18. VENTURINI Clément
+3 Alpecin-Fenix
+21. VINE Jay
+22. BAYER Tobias
+23. DE TIER Floris
+24. KRIEGER Alexander
+25. MODOLO Sacha
+26. PHILIPSEN Jasper
+27. PLANCKAERT Edward
+28. THWAITES Scott
+4 Astana - Premier Tech
+31. VLASOV Aleksandr
+32. ARANBURU Alex
+33. FRAILE Omar
+34. IZAGIRRE Gorka
+35. IZAGIRRE Ion
+36. NATAROV Yuriy
+37. RODRÍGUEZ Óscar
+38. SÁNCHEZ Luis León
+5 Bahrain - Victorious
+41. LANDA Mikel
+42. ARASHIRO Yukiya
+43. CARUSO Damiano
+44. HAIG Jack
+45. MÄDER Gino
+46. PADUN Mark
+47. POELS Wout
+48. TRATNIK Jan
+6 BORA - hansgrohe
+51. GROßSCHARTNER Felix
+52. BENEDETTI Cesare
+53. GAMPER Patrick
+54. LAAS Martin
+55. MEEUS Jordi
+56. PALZER Anton
+57. SCHACHMANN Maximilian
+58. ZWIEHOFF Ben
+7 Burgos-BH
+61. NAVARRO Daniel
+62. BOL Jetse
+63. CABEDO Óscar
+64. CANAL Carlos
+65. MADRAZO Ángel
+66. OKAMIKA Ander
+67. RUBIO Diego
+68. SANCHEZ Pelayo
+8 Caja Rural - Seguros RGA
+71. LASTRA Jonathan
+72. ABERASTURI Jon
+73. AMEZQUETA Julen
+74. BAGÜES Aritz
+75. CEPEDA Jefferson Alveiro
+76. CUADROS Álvaro
+77. LAZKANO Oier
+78. MARTÍN Sergio Roman
+9 Cofidis, Solutions Crédits
+81. MARTIN Guillaume
+82. ALLEGAERT Piet
+83. BARCELÓ Fernando
+84. FINÉ Eddy
+85. HERRADA Jesús
+86. HERRADA José
+87. MORIN Emmanuel
+88. ROCHAS Rémy
+10 Deceuninck - Quick Step
+91. JAKOBSEN Fabio
+92. BAGIOLI Andrea
+93. ČERNÝ Josef
+94. KNOX James
+95. SÉNÉCHAL Florian
+96. ŠTYBAR Zdeněk
+97. VAN LERBERGHE Bert
+98. VANSEVENANT Mauri
+11 EF Education - Nippo
+101.CARTHY Hugh
+102.CAICEDO Jonathan Klever
+103.CAMARGO Diego Andrés
+104.CARR Simon
+105.CRADDOCK Lawson
+106.KEUKELEIRE Jens
+107.CORT Magnus
+108.SCULLY Tom
+12 Euskaltel - Euskadi
+111.BIZKARRA Mikel
+112.AZPARREN Xabier Mikel
+113.BOU Joan
+114.ITURRIA Mikel
+115.LOBATO Juan José
+116.MARTÍN Gotzon
+117.MATÉ Luis Ángel
+118.SOTO Antonio Jesús
+13 Groupama - FDJ
+121.DÉMARE Arnaud
+122.GENIETS Kevin
+123.GUARNIERI Jacopo
+124.LE GAC Olivier
+125.LUDVIGSSON Tobias
+126.MOLARD Rudy
+127.ROUX Anthony
+128.SINKELDAM Ramon
+14 INEOS Grenadiers
+131.BERNAL Egan
+132.CARAPAZ Richard
+133.NARVÁEZ Jhonatan
+134.PIDCOCK Thomas
+135.PUCCIO Salvatore
+136.SIVAKOV Pavel
+137.VAN BAARLE Dylan
+138.YATES Adam
+15 Intermarché - Wanty - Gobert Matériaux
+141.MEINTJES Louis
+142.EIKING Odd Christian
+143.HIRT Jan
+144.KREDER Wesley
+145.MINALI Riccardo
+146.PETILLI Simone
+147.TAARAMÄE Rein
+148.VAN MELSEN Kévin
+16 Israel Start-Up Nation
+151.VANMARCKE Sep
+152.BERWICK Sebastian
+153.CATAFORD Alexander
+154.CIMOLAI Davide
+155.EINHORN Itamar
+156.NIV Guy
+157.PICCOLI James
+158.WÜRTZ SCHMIDT Mads
+17 Lotto Soudal
+161.KRON Andreas
+162.CRAS Steff
+163.FRISON Frederik
+164.HOLMES Matthew
+165.MONIQUET Sylvain
+166.VAN GILS Maxim
+167.VANHOUCKE Harm
+168.VERMEERSCH Florian
+18 Movistar Team
+171.MAS Enric
+172.ERVITI Imanol
+173.JACOBS Johan
+174.LÓPEZ Miguel Ángel
+175.OLIVEIRA Nelson
+176.ROJAS José Joaquín
+177.VALVERDE Alejandro
+178.VERONA Carlos
+19 Team BikeExchange
+181.MATTHEWS Michael
+182.HAMILTON Lucas
+183.HOWSON Damien
+184.MEZGEC Luka
+185.NIEVE Mikel
+186.SCHULTZ Nick
+187.STANNARD Robert
+188.ZEITS Andrey
+20 Team DSM
+191.BARDET Romain
+192.ARENSMAN Thymen
+193.DAINESE Alberto
+194.DENZ Nico
+195.HAGA Chad
+196.HAMILTON Chris
+197.STORER Michael
+198.TUSVELD Martijn
+21 Team Qhubeka NextHash
+201.ARU Fabio
+202.ARMÉE Sander
+203.BROWN Connor
+204.CLAEYS Dimitri
+205.HENAO Sergio
+206.JANSE VAN RENSBURG Reinardt
+207.LINDEMAN Bert-Jan
+208.SUNDERLAND Dylan
+22 Trek - Segafredo
+211.CICCONE Giulio
+212.BRAMBILLA Gianluca
+213.ELISSONDE Kenny
+214.KIRSCH Alex
+215.LÓPEZ Juan Pedro
+216.NIBALI Antonio
+217.REIJNEN Kiel
+218.SIMMONS Quinn
+23 UAE-Team Emirates
+221.DE LA CRUZ David
+222.DOMBROWSKI Joe
+223.GIBBONS Ryan
+224.MAJKA Rafał
+225.MOLANO Juan Sebastián
+226.OLIVEIRA Rui
+227.POLANC Jan
+228.TRENTIN Matteo

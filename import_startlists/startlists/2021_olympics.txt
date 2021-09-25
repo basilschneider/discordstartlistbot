@@ -1,0 +1,343 @@
+1 Belgium
+1. VAN AVERMAET Greg
+2. BENOOT Tiesj
+3. EVENEPOEL Remco
+4. VAN AERT Wout
+5. VANSEVENANT Mauri
+2 Slovenia
+6. POGAČAR Tadej
+7. POLANC Jan
+8. ROGLIČ Primož
+9. TRATNIK Jan
+
+3 France
+10. CAVAGNA Rémi
+11. COSNEFROY Benoît
+12. ELISSONDE Kenny
+13. GAUDU David
+14. MARTIN Guillaume
+4 Spain
+15. FRAILE Omar
+16. HERRADA Jesús
+17. IZAGIRRE Gorka
+18. IZAGIRRE Ion
+19. VALVERDE Alejandro
+5 Great Britain
+20. GEOGHEGAN HART Tao
+21. THOMAS Geraint
+22. YATES Simon
+23. YATES Adam
+
+6 Italy
+24. BETTIOL Alberto
+25. CARUSO Damiano
+26. CICCONE Giulio
+27. MOSCON Gianni
+28. NIBALI Vincenzo
+7 Netherlands
+29. DUMOULIN Tom
+30. HAVIK Yoeri
+31. KELDERMAN Wilco
+32. MOLLEMA Bauke
+33. VAN BAARLE Dylan
+8 Colombia
+34. CHAVES Esteban
+35. HIGUITA Sergio
+37. QUINTANA Nairo
+38. URÁN Rigoberto
+
+9 Australia
+40. DURBRIDGE Luke
+41. HAMILTON Lucas
+42. PORTE Richie
+
+
+10 Denmark
+43. ASGREEN Kasper
+44. FUGLSANG Jakob
+45. VALGREN Michael
+46. JUUL-JENSEN Christopher
+
+11 Germany
+47. ARNDT Nikias
+48. BUCHMANN Emanuel
+
+50. SCHACHMANN Maximilian
+
+12 Switzerland
+51. HIRSCHI Marc
+52. KÜNG Stefan
+53. MÄDER Gino
+54. SCHÄR Michael
+
+13 Portugal
+55. ALMEIDA João
+56. OLIVEIRA Nelson
+
+
+
+14 Ireland
+57. DUNBAR Eddie
+58. MARTIN Dan
+59. ROCHE Nicolas
+
+
+15 Ecuador
+60. CARAPAZ Richard
+61. NARVÁEZ Jhonatan
+
+
+
+16 Russia
+62. SIVAKOV Pavel
+63. VLASOV Aleksandr
+64. ZAKARIN Ilnur
+
+
+17 Norway
+65. FOSS Tobias
+66. HOELGAARD Markus
+67. JOHANNESSEN Tobias Halland
+68. LEKNESSUND Andreas
+
+18 Poland
+69. BODNAR Maciej
+70. KWIATKOWSKI Michał
+71. MAJKA Rafał
+
+
+19 New Zealand
+72. BENNETT George
+73. BEVIN Patrick
+
+
+
+20 South Africa
+74. DE BOD Stefan
+75. DLAMINI Nic
+76. GIBBONS Ryan
+
+
+21 Canada
+77. BOIVIN Guillaume
+78. HOULE Hugo
+79. WOODS Michael
+
+
+22 Czech Republic
+80. KUKRLE Michael
+
+82. ŠTYBAR Zdeněk
+
+
+23 Austria
+83. KONRAD Patrick
+84. MÜHLBERGER Gregor
+85. PERNSTEINER Hermann
+
+
+24 United States
+86. CRADDOCK Lawson
+87. MCNULTY Brandon
+
+
+
+25 Slovakia
+88. SAGAN Juraj
+89. KUBIŠ Lukáš
+
+
+
+26 Kazakhstan
+90. GRUZDEV Dmitriy
+91. LUTSENKO Alexey
+92. PRONSKIY Vadim
+
+
+27 Ukraine
+93. BUDYAK Anatoliy
+
+
+
+
+28 Estonia
+94. KANGERT Tanel
+95. PRUUS Peeter
+
+
+
+29 Eritrea
+96. GHEBREIGZABHIER Amanuel
+97. KUDUS Merhawi
+
+
+
+30 Latvia
+98. NEILANDS Krists
+99. SKUJIŅŠ Toms
+
+
+
+31 Luxembourg
+100.GENIETS Kevin
+101.RIES Michel
+
+
+
+32 Belarus
+102.RIABUSHENKO Alexandr
+
+
+
+
+33 Algeria
+103.LAGAB Azzedine
+104.MANSOURI Hamza
+
+
+
+34 Romania
+105.GROSU Eduard-Michael
+
+
+
+
+35 Lithuania
+106.ŠIŠKEVIČIUS Evaldas
+
+
+
+
+36 Hungary
+107.VALTER Attila
+
+
+
+
+37 Greece
+108.TZORTZAKIS Polychronis
+
+
+
+
+38 Panama
+109.JURADO Christofer Robín
+
+
+
+
+39 Mexico
+110.FRAYRE Eder
+
+
+
+
+40 Japan
+111.ARASHIRO Yukiya
+112.MASUDA Nariyuki
+
+
+
+41 Guatemala
+113.RODAS Manuel
+
+
+
+
+42 Rwanda
+114.MUGISHA Moise
+
+
+
+
+43 Namibia
+115.DE LANGE Tristan
+
+
+
+
+44 Venezuela
+116.AULAR Orluis
+
+
+
+
+45 Turkey
+117.BALKAN Onur
+118.ÖRKEN Ahmet
+
+
+
+46 Croatia
+119.RUMAC Josip
+
+
+
+
+47 Burkina Faso
+120.DAUMONT Paul
+
+
+
+
+48 China
+121.WANG Ruidong
+
+
+
+
+49 Iran
+122.SAFARZADEH Saeeid
+
+
+
+
+50 Argentina
+123.SEPÚLVEDA Eduardo
+
+
+
+
+51 Uzbekistan
+124.KHALMURATOV Muradjan
+
+
+
+
+52 Morocco
+125.EL KOURAJI Mohcine
+
+
+
+
+53 Costa Rica
+126.AMADOR Andrey
+
+
+
+
+54 Azerbaijan
+127.ASADOV Elchin
+
+
+
+
+55 Peru
+128.NAVARRO Royner
+
+
+
+
+56 Taiwan
+129.FENG Chun Kai
+
+
+
+
+57 Hong Kong
+130.CHOI Hiu Fung
+
+
+
+
+4 6 13 24 32 38 44 60 70 79 87
