@@ -9,13 +9,15 @@ from discord.ext import commands
 
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
+MONGODB = os.getenv('MONGODB')
+MONGOPW = os.getenv('MONGOPW')
 
 bot = commands.Bot(command_prefix='/')
 
 #race = 'Strade Bianche 2021'
 
 # MongoDB connection information
-conn_url = 'mongodb+srv://live-radsport:anOrdinaryPassword@cluster0.zywng.mongodb.net/cycling_startlists'
+conn_url = f'mongodb+srv://{MONGODB}:{MONGOPW}@cluster0.zywng.mongodb.net/cycling_startlists'
 cluster_name = 'cycling_startlists'
 #db_name = '2021_volta-catalunya'
 
