@@ -1,0 +1,225 @@
+1 Deceuninck - Quick Step
+1. ALAPHILIPPE Julian
+2. ALMEIDA João
+3. BAGIOLI Andrea
+4. DEVENYNS Dries
+5. EVENEPOEL Remco
+6. MASNADA Fausto
+7. SERRY Pieter
+DS: BRAMATI Davide,LODEWYCK Klaas
+2 AG2R Citroën Team
+11. COSNEFROY Benoît
+12. BERTHET Clément
+13. BOUCHARD Geoffrey
+14. CHAMPOUSSIN Clément
+15. HÄNNINEN Jaakko
+16. PARET-PEINTRE Aurélien
+17. WARBASSE Larry
+DS: JURDIE Julien,DESSEL Cyril
+3 Alpecin-Fenix
+21. MEURISSE Xandro
+22. DE TIER Floris
+23. JANSSENS Jimmy
+24. SBARAGLI Kristian
+25. TULETT Ben
+26. VAKOČ Petr
+27. VERVAEKE Louis
+DS: WILLEMS Frederik,MEERSMAN Gianni
+4 Androni Giocattoli -Sidermec
+31. BAIS Mattia
+32. CEPEDA Jefferson Alexander
+33. MUÑOZ Daniel
+34. RAVANELLI Simone
+35. SEPÚLVEDA Eduardo
+36. TAGLIANI Filippo
+37. VENCHIARUTTI Nicola
+DS: ELLENA Giovanni,CHEULA Giampaolo
+5 Astana - Premier Tech
+41. VLASOV Aleksandr
+42. BATTISTELLA Samuele
+43. BOARO Manuele
+44. CONTRERAS Rodrigo
+45. FELLINE Fabio
+46. LUTSENKO Alexey
+47. SOBRERO Matteo
+DS: MARTINELLI Giuseppe,ZANINI Stefano
+6 Bahrain - Victorious
+51. TEUNS Dylan
+52. BUITRAGO Santiago
+53. LANDA Mikel
+54. MOHORIČ Matej
+55. NOVAK Domen
+56. PERNSTEINER Hermann
+57. WILLIAMS Stephen
+DS: VOLPI Alberto,PELLIZOTTI Franco
+7 Bardiani-CSF-Faizanè
+61. CARBONI Giovanni
+62. COVILI Luca
+63. FIORELLI Filippo
+64. GABBURO Davide
+65. GAROSIO Andrea
+66. MONACO Alessandro
+67. SAVINI Daniel
+DS: REVERBERI Roberto,DONATI Alessandro,REVERBERI Roberto,DONATI Alessandro
+8 BORA - hansgrohe
+71. BENEDETTI Cesare
+72. ALEOTTI Giovanni
+73. BUCHMANN Emanuel
+74. FABBRO Matteo
+75. GROßSCHARTNER Felix
+76. KONRAD Patrick
+77. SCHELLING Ide
+DS: POITSCHKE Enrico,ZEMKE Jens
+9 Cofidis, Solutions Crédits
+81. MARTIN Guillaume
+82. BERHANE Natnael
+83. CHAMPION Thomas
+84. FERNÁNDEZ Rubén
+85. GESCHKE Simon
+86. LAFAY Victor
+87. ROCHAS Rémy
+DS: DAMIANI Roberto,JONROND Jean-luc
+10 EF Education - Nippo
+91. URÁN Rigoberto
+92. BARTA Will
+93. CAMARGO Diego Andrés
+94. ARROYAVE Daniel
+95. HIGUITA Sergio
+96. POWLESS Neilson
+97. WHELAN James
+DS: WEGELIUS Charles
+11 EOLO-Kometa
+101. FORTUNATO Lorenzo
+102. ALBANESE Vincenzo
+103. BAIS Davide
+104. CHRISTIAN Mark
+105. FETTER Erik
+106. GAVAZZI Francesco
+107. RAVASI Edward
+DS: ZANATTA Stefano,HERNÁNDEZ BLÁZQUEZ Jesús
+12 Groupama - FDJ
+111. PINOT Thibaut
+112. BADILATTI Matteo
+113. GAUDU David
+114. LADAGNOUS Matthieu
+115. REICHENBACH Sébastien
+116. ROUX Anthony
+117. VALTER Attila
+DS: JOLY Sébastien,VEIKKANEN Jussi
+13 INEOS Grenadiers
+121. YATES Adam
+122. CASTROVIEJO Jonathan
+123. DUNBAR Eddie
+124. GEOGHEGAN HART Tao
+125. SWIFT Ben
+126. MOSCON Gianni
+127. SIVAKOV Pavel
+DS: COOKSON Oliver,TOSATTO Matteo
+14 Intermarché - Wanty -Gobert Matériaux
+131. BAKELANTS Jan
+132. HIRT Jan
+133. MEINTJES Louis
+134. PETILLI Simone
+135. ROTA Lorenzo
+136. TAARAMÄE Rein
+137. EIKING Odd Christian
+DS: PIVA Valerio,DE NEEF Steven
+15 Israel Start-Up Nation
+141. MARTIN Dan
+142. FROOME Chris
+143. GOLDSTEIN Omer
+144. HERMANS Ben
+145. HOLLENSTEIN Reto
+146. PICCOLI James
+147. WOODS Michael
+DS: SØRENSEN Nicki,COZZI Claudio
+16 Team Jumbo-Visma
+151. ROGLIČ Primož
+152. BENNETT George
+153. BOUWMAN Koen
+154. HARPER Chris
+155. KRUIJSWIJK Steven
+156. OOMEN Sam
+157. VINGEGAARD Jonas
+DS: ENGELS Addy,NIERMANN Grischa
+17 Lotto Soudal
+161. WELLENS Tim
+162. CRAS Steff
+163. HOLMES Matthew
+164. KRON Andreas
+165. MARCZYŃSKI Tomasz
+166. VAN GILS Maxim
+167. VANHOUCKE Harm
+DS: VAN DE WOUWER Kurt,MONFORT Maxime
+18 Movistar Team
+171. VALVERDE Alejandro
+172. CATALDO Dario
+173. OLIVEIRA Nelson
+174. PEDRERO Antonio
+175. ROJAS José Joaquín
+176. SERRANO Gonzalo
+177. VILLELLA Davide
+DS: SCIANDRI Maximilian
+19 Team Arkéa Samsic
+181. QUINTANA Nairo
+182. BOUET Maxime
+183. ANACONA Winner
+184. GESBERT Élie
+185. HARDY Romain
+186. OWSIAN Łukasz
+187. QUINTANA Dayer
+DS: LEDANOIS Yvon,CAER Yvon
+20 Team BikeExchange
+191. YATES Simon
+192. COLLEONI Kevin
+193. HOWSON Damien
+194. JUUL-JENSEN Christopher
+195. NIEVE Mikel
+196. SCHULTZ Nick
+197. ZEITS Andrey
+DS: WHITE Matthew,BATES Gene
+21 Team DSM
+201. BARDET Romain
+202. ARENSMAN Thymen
+203. BENOOT Tiesj
+204. DONOVAN Mark
+205. HAMILTON Chris
+206. LEKNESSUND Andreas
+207. STORER Michael
+DS: ROBERTS Luke
+22 Team Qhubeka NextHash
+211. POZZOVIVO Domenico
+212. BENNETT Sean
+213. CAMPENAERTS Victor
+214. STOKBRO Andreas
+215. SCHMID Mauro
+216. SUNDERLAND Dylan
+217. VACEK Karel
+DS: MISSAGLIA Gabriele,SANS VEGA Alexandre
+23 Trek - Segafredo
+221. NIBALI Vincenzo
+222. BRAMBILLA Gianluca
+223. EG Niklas
+224. GHEBREIGZABHIER Amanuel
+225. MOLLEMA Bauke
+226. SKUJIŅŠ Toms
+227. TIBERI Antonio
+DS: POPOVYCH Yaroslav,SLONGO Paolo
+24 UAE-Team Emirates
+231. POGAČAR Tadej
+232. FORMOLO Davide
+233. HIRSCHI Marc
+234. MAJKA Rafał
+235. MCNULTY Brandon
+236. POLANC Jan
+237. ULISSI Diego
+DS: BALDATO Fabio,MARZANO Marco
+25 Vini Zabù
+241. ZARDINI Edoardo
+242. BEVILACQUA Simone
+243. FRAPPORTI Marco
+244. MARECZKO Jakub
+245. ORRICO Davide
+246. PEARSON Daniel
+247. STACCHIOTTI Riccardo
+DS: FRASSI Francesco,GIL MARTINEZ Tomas Aurelio
