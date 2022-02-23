@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-race=2021_il-lombardia
+race=2022_uae
 
 #./pcstocsv startlists/"${race}".txt
 ./mongoimport startlists/"${race}".json

@@ -70,6 +70,6 @@ async def get_startlist(collectionname, racename, ctx, *args):
 #    await get_startlist('2021_gent-wevelgem', 'GW', ctx, *args)
 @bot.command(name='sl')
 async def sl(ctx, *args):
-    await get_startlist('2021_il-lombardia', 'IL', ctx, *args)
+    await get_startlist('2022_uae', 'UAE', ctx, *args)
 
 bot.run(TOKEN)
