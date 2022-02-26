@@ -14,8 +14,6 @@ MONGOPW = os.getenv('MONGOPW')
 
 bot = commands.Bot(command_prefix='/')
 
-#race = 'Strade Bianche 2021'
-
 # MongoDB connection information
 conn_url = f'mongodb+srv://{MONGODB}:{MONGOPW}@cluster0.zywng.mongodb.net/cycling_startlists'
 cluster_name = 'cycling_startlists'
@@ -70,6 +68,6 @@ async def get_startlist(collectionname, racename, ctx, *args):
 #    await get_startlist('2021_gent-wevelgem', 'GW', ctx, *args)
 @bot.command(name='sl')
 async def sl(ctx, *args):
-    await get_startlist('2022_uae', 'UAE', ctx, *args)
+    await get_startlist('2022_omloop', 'OMLOOP', ctx, *args)
 
 bot.run(TOKEN)
