@@ -1,0 +1,176 @@
+number, name, team
+1, LAMPAERT Yves,Quick-Step Alpha Vinyl Team
+2, VAN LERBERGHE Bert,Quick-Step Alpha Vinyl Team
+3, ČERNÝ Josef,Quick-Step Alpha Vinyl Team
+4, KEISSE Iljo,Quick-Step Alpha Vinyl Team
+5, ASGREEN Kasper,Quick-Step Alpha Vinyl Team
+6, SÉNÉCHAL Florian,Quick-Step Alpha Vinyl Team
+7, ŠTYBAR Zdeněk,Quick-Step Alpha Vinyl Team
+11, VAN AERT Wout,Jumbo-Visma
+12, EENKHOORN Pascal,Jumbo-Visma
+13, AFFINI Edoardo,Jumbo-Visma
+14, TEUNISSEN Mike,Jumbo-Visma
+15, BENOOT Tiesj,Jumbo-Visma
+16, VAN DER SANDE Tosh,Jumbo-Visma
+17, VAN HOOYDONCK Nathan,Jumbo-Visma
+21, GILBERT Philippe,Lotto Soudal
+22, CAMPENAERTS Victor,Lotto Soudal
+23, DE BUYST Jasper,Lotto Soudal
+24, VAN MOER Brent,Lotto Soudal
+25, VERMEERSCH Florian,Lotto Soudal
+26, WELLENS Tim,Lotto Soudal
+27, SWEENY Harry,Lotto Soudal
+31, BYSTRØM Sven Erik,Intermarché - Wanty - Gobert Matériaux
+32, CLAEYS Dimitri,Intermarché - Wanty - Gobert Matériaux
+33, DE GENDT Aimé,Intermarché - Wanty - Gobert Matériaux
+34, PASQUALON Andrea,Intermarché - Wanty - Gobert Matériaux
+35, PETIT Adrien,Intermarché - Wanty - Gobert Matériaux
+36, KRISTOFF Alexander,Intermarché - Wanty - Gobert Matériaux
+37, VLIEGEN Loïc,Intermarché - Wanty - Gobert Matériaux
+41, VAN AVERMAET Greg,AG2R Citroën Team
+42, NAESEN Oliver,AG2R Citroën Team
+43, NAESEN Lawrence,AG2R Citroën Team
+44, SCHÄR Michael,AG2R Citroën Team
+45, TOUZÉ Damien,AG2R Citroën Team
+46, DEWULF Stan,AG2R Citroën Team
+47, VAN HOECKE Gijs,AG2R Citroën Team
+51, STUYVEN Jasper,Trek - Segafredo
+52, THEUNS Edward,Trek - Segafredo
+53, KIRSCH Alex,Trek - Segafredo
+54, SKUJIŅŠ Toms,Trek - Segafredo
+55, HOELGAARD Markus,Trek - Segafredo
+56, HOOLE Daan,Trek - Segafredo
+57, VERGAERDE Otto,Trek - Segafredo
+61, MOSCON Gianni,Astana Qazaqstan Team
+62, FEDOROV Yevgeniy,Astana Qazaqstan Team
+63, GAZZOLI Michele,Astana Qazaqstan Team
+64, GRUZDEV Dmitriy,Astana Qazaqstan Team
+65, LUTSENKO Alexey,Astana Qazaqstan Team
+66, BASSO Leonardo,Astana Qazaqstan Team
+67, MARTINELLI Davide,Astana Qazaqstan Team
+71, COLBRELLI Sonny,Bahrain - Victorious
+72, HAUSSLER Heinrich,Bahrain - Victorious
+73, BAUHAUS Phil,Bahrain - Victorious
+74, MOHORIČ Matej,Bahrain - Victorious
+75, GRADEK Kamil,Bahrain - Victorious
+76, SÁNCHEZ Luis León,Bahrain - Victorious
+77, WRIGHT Fred,Bahrain - Victorious
+81, GAMPER Patrick,BORA - hansgrohe
+82, HALLER Marco,BORA - hansgrohe
+83, KOCH Jonas,BORA - hansgrohe
+84, MEEUS Jordi,BORA - hansgrohe
+85, POLITT Nils,BORA - hansgrohe
+86, PÖSTLBERGER Lukas,BORA - hansgrohe
+87, SCHELLING Ide,BORA - hansgrohe
+91, COQUARD Bryan,Cofidis
+92, BOHLI Tom,Cofidis
+93, ALLEGAERT Piet,Cofidis
+94, FINÉ Eddy,Cofidis
+95, VANBILSEN Kenneth,Cofidis
+96, CONSONNI Simone,Cofidis
+97, SAJNOK Szymon,Cofidis
+101, KEUKELEIRE Jens,EF Education-EasyPost
+102, VALGREN Michael,EF Education-EasyPost
+103, DOULL Owain,EF Education-EasyPost
+104, HEALY Ben,EF Education-EasyPost
+105, SCULLY Tom,EF Education-EasyPost
+106, VAN DEN BERG Julius,EF Education-EasyPost
+107, WIŚNIOWSKI Łukasz,EF Education-EasyPost
+111, ASKEY Lewis,Groupama - FDJ
+,,Groupama - FDJ
+113, KÜNG Stefan,Groupama - FDJ
+114, LE GAC Olivier,Groupama - FDJ
+115, LIENHARD Fabian,Groupama - FDJ
+116, LUDVIGSSON Tobias,Groupama - FDJ
+117, DUCHESNE Antoine,Groupama - FDJ
+121, PIDCOCK Thomas,INEOS Grenadiers
+122, HAYTER Ethan,INEOS Grenadiers
+123, WURF Cameron,INEOS Grenadiers
+124, NARVÁEZ Jhonatan,INEOS Grenadiers
+125, TURNER Ben,INEOS Grenadiers
+126, SHEFFIELD Magnus,INEOS Grenadiers
+127, SWIFT Ben,INEOS Grenadiers
+131, VANMARCKE Sep,Israel - Premier Tech
+132, BOIVIN Guillaume,Israel - Premier Tech
+133, CLARKE Simon,Israel - Premier Tech
+134, STRONG Corbin,Israel - Premier Tech
+135, HOULE Hugo,Israel - Premier Tech
+136, VAN ASBROECK Tom,Israel - Premier Tech
+137, BIERMANS Jenthe,Israel - Premier Tech
+141, ARANBURU Alex,Movistar Team
+142, LAZKANO Oier,Movistar Team
+143, GARCÍA CORTINA Iván,Movistar Team
+144, HOLLMANN Juri,Movistar Team
+145, JACOBS Johan,Movistar Team
+146, MAS Lluís,Movistar Team
+,,Movistar Team
+151, CRADDOCK Lawson,Team BikeExchange - Jayco
+152, DURBRIDGE Luke,Team BikeExchange - Jayco
+153, KONYCHEV Alexander,Team BikeExchange - Jayco
+154, SMITH Dion,Team BikeExchange - Jayco
+155, MAAS Jan,Team BikeExchange - Jayco
+,,Team BikeExchange - Jayco
+,,Team BikeExchange - Jayco
+161, DEGENKOLB John,Team DSM
+162, MAYRHOFER Marius,Team DSM
+163, EEKHOFF Nils,Team DSM
+164, HVIDEBERG Jonas Iversby,Team DSM
+165, KRAGH ANDERSEN Søren,Team DSM
+166, ARNDT Nikias,Team DSM
+167, HEINSCHKE Leon,Team DSM
+171, GAVIRIA Fernando,UAE Team Emirates
+172, COVI Alessandro,UAE Team Emirates
+173, GIBBONS Ryan,UAE Team Emirates
+174, LAENGEN Vegard Stake,UAE Team Emirates
+175, TROIA Oliviero,UAE Team Emirates
+176, OLIVEIRA Rui,UAE Team Emirates
+177, TRENTIN Matteo,UAE Team Emirates
+181, DE BONDT Dries,Alpecin-Fenix
+182, BAYER Tobias,Alpecin-Fenix
+183, GOGL Michael,Alpecin-Fenix
+184, MEURISSE Xandro,Alpecin-Fenix
+185, LEYSEN Senne,Alpecin-Fenix
+186, BALLERSTEDT Maurice,Alpecin-Fenix
+187, VAN KEIRSBULCK Guillaume,Alpecin-Fenix
+191, BARTHE Cyril,B&B Hotels - KTM
+192, JAUREGUI Quentin,B&B Hotels - KTM
+193, LECROQ Jérémy,B&B Hotels - KTM
+194, LEMOINE Cyril,B&B Hotels - KTM
+195, MORICE Julien,B&B Hotels - KTM
+196, MOZZATO Luca,B&B Hotels - KTM
+197, WARLOP Jordi,B&B Hotels - KTM
+201, DUPONT Timothy,Bingoal Pauwels Sauces WB
+202, LIVYNS Arjen,Bingoal Pauwels Sauces WB
+203, ANIOŁKOWSKI Stanisław,Bingoal Pauwels Sauces WB
+204, BLOUWE Louis,Bingoal Pauwels Sauces WB
+205, REX Laurenz,Bingoal Pauwels Sauces WB
+206, ROBEET Ludovic,Bingoal Pauwels Sauces WB
+207, PAASSCHENS Mathijs,Bingoal Pauwels Sauces WB
+211, DE PESTEL Sander,Sport Vlaanderen - Baloise
+212, DE VYLDER Lindsay,Sport Vlaanderen - Baloise
+213, APERS Ruben,Sport Vlaanderen - Baloise
+214, MARIT Arne,Sport Vlaanderen - Baloise
+215, VERWILST Aaron,Sport Vlaanderen - Baloise
+216, VAN ROOY Kenneth,Sport Vlaanderen - Baloise
+217, VANHOOF Ward,Sport Vlaanderen - Baloise
+221, CAPIOT Amaury,Team Arkéa Samsic
+222, GRONDIN Donavan,Team Arkéa Samsic
+223, LOUVEL Matis,Team Arkéa Samsic
+224, MCLAY Daniel,Team Arkéa Samsic
+225, VAUQUELIN Kevin,Team Arkéa Samsic
+226, RUSSO Clément,Team Arkéa Samsic
+227, SWIFT Connor,Team Arkéa Samsic
+231, SAGAN Peter,TotalEnergies
+232, BOASSON HAGEN Edvald,TotalEnergies
+233, VAN GESTEL Dries,TotalEnergies
+234, OSS Daniel,TotalEnergies
+235, SOUPE Geoffrey,TotalEnergies
+236, LAWLESS Chris,TotalEnergies
+237, TURGIS Anthony,TotalEnergies
+241, ABRAHAMSEN Jonas,Uno-X Pro Cycling Team
+242, DVERSNES Fredrik,Uno-X Pro Cycling Team
+243, HULGAARD Morten,Uno-X Pro Cycling Team
+245, RESELL Erik Nordsæter,Uno-X Pro Cycling Team
+246, SKAARSETH Anders,Uno-X Pro Cycling Team
+247, TILLER Rasmus,Uno-X Pro Cycling Team
+248, JOHANNESSEN Tobias Halland,Uno-X Pro Cycling Team
