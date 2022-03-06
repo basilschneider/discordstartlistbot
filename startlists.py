@@ -60,14 +60,14 @@ async def get_startlist(collectionname, racename, ctx, *args):
     await ctx.send(response)
 
 # Handle sl command
-#@bot.command(name='vc', help=race)
-#async def vc(ctx, *args):
-#    await get_startlist('2021_volta-catalunya', 'VC', ctx, *args)
-#@bot.command(name='gw', help=race)
-#async def gw(ctx, *args):
-#    await get_startlist('2021_gent-wevelgem', 'GW', ctx, *args)
-@bot.command(name='sl')
+#@bot.command(name='sl')
+#async def sl(ctx, *args):
+#    await get_startlist('2022_strade', 'STRADE', ctx, *args)
+@bot.command(name='pn')
 async def sl(ctx, *args):
-    await get_startlist('2022_strade', 'STRADE', ctx, *args)
+    await get_startlist('2022_paris-nice', 'PN', ctx, *args)
+@bot.command(name='ta')
+async def sl(ctx, *args):
+    await get_startlist('2022_tirreno-adriatico', 'TA', ctx, *args)
 
 bot.run(TOKEN)
