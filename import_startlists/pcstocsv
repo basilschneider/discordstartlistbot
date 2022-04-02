@@ -4,7 +4,7 @@ pcs="${1}"
 csv="${1%.txt}".csv
 json="${1%.txt}".json
 
-nRidersPerTeam=7
+nRidersPerTeam=8
 
 echo "This should list teams only"
 awk \
