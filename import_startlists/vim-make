@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-race=2022_ronde
+race=2022_brabantse-pijl
 
 #./pcstocsv startlists/"${race}".txt
 ./mongoimport startlists/"${race}".json
