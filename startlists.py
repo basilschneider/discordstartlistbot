@@ -62,7 +62,7 @@ async def get_startlist(collectionname, racename, ctx, *args):
 # Handle sl command
 @bot.command(name='sl')
 async def sl(ctx, *args):
-    await get_startlist('2022_brabantse-pijl', 'PIJL', ctx, *args)
+    await get_startlist('2022_paris-roubaix', 'PR', ctx, *args)
 #@bot.command(name='pn')
 #async def sl(ctx, *args):
 #    await get_startlist('2022_paris-nice', 'PN', ctx, *args)
