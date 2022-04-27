@@ -1,0 +1,160 @@
+1 INEOS Grenadiers
+1. THOMAS Geraint
+2. AMADOR Andrey
+3. DE PLUS Laurens
+4. HAYTER Ethan
+5. PLAPP Luke
+6. RIVERA Brandon Smith
+7. SHEFFIELD Magnus
+2 UAE Team Emirates
+11. HIRSCHI Marc
+12. OLIVEIRA Ivo
+13. AYUSO Juan
+14. FISHER-BLACK Finn
+15. GAVIRIA Fernando
+16. MCNULTY Brandon
+17. POLANC Jan
+3 Jumbo-Visma
+21. KRUIJSWIJK Steven
+22. DENNIS Rohan
+23. GESINK Robert
+24. HESSMANN Michel
+25. KUSS Sepp
+26. LEEMREIZE Gijs
+27. ROOSEN Timo
+4 Bahrain - Victorious
+31. CARUSO Damiano
+32. MÄDER Gino
+33. PERNSTEINER Hermann
+34. PRICE-PEJTERSEN Johan
+35. SÁNCHEZ Luis León
+36. TEUNS Dylan
+37. WILLIAMS Stephen
+5 Intermarché - Wanty - Gobert Matériaux
+41. MEINTJES Louis
+42. DELACROIX Théo
+43. HERMANS Quinten
+44. HUYS Laurens
+45. JOHANSEN Julius
+46. PLANCKAERT Baptiste
+47. TAARAMÄE Rein
+6 Cofidis
+51. IZAGIRRE Ion
+52. ARMÉE Sander
+53. BOHLI Tom
+54. CHAMPION Thomas
+55. FERNÁNDEZ Rubén
+56. GESCHKE Simon
+57. VILLELLA Davide
+7 Groupama - FDJ
+61. PINOT Thibaut
+62. BADILATTI Matteo
+63. MOLARD Rudy
+64. PACHER Quentin
+65. REICHENBACH Sébastien
+66. ROUX Anthony
+67. STORER Michael
+8 Quick-Step Alpha Vinyl Team
+71. CAVAGNA Rémi
+72. CATTANEO Mattia
+73. ČERNÝ Josef
+74. HONORÉ Mikkel Frølich
+75. KNOX James
+76. SCHMID Mauro
+77. VERNON Ethan
+9 AG2R Citroën Team
+81. O'CONNOR Ben
+82. BOUCHARD Geoffrey
+83. JUNGELS Bob
+84. NAESEN Lawrence
+85. PARET-PEINTRE Valentin
+86. PETERS Nans
+87. SCHÄR Michael
+10 BORA - hansgrohe
+91. VLASOV Aleksandr
+92. GROßSCHARTNER Felix
+93. HIGUITA Sergio
+94. KONRAD Patrick
+95. PALZER Anton
+96. SCHACHMANN Maximilian
+97. WANDAHL Frederik
+11 Lotto Soudal
+101.CRAS Steff
+102.GRIGNARD Sébastien
+103.HOLMES Matthew
+104.SWEENY Harry
+105.VANHOUCKE Harm
+106.VERSCHAEVE Viktor
+
+12 Trek - Segafredo
+111.TIBERI Antonio
+112.ABERASTURI Jon
+113.BERNARD Julien
+114.BRAMBILLA Gianluca
+115.ELISSONDE Kenny
+116.SKUJIŅŠ Toms
+117.TOLHOEK Antwan
+13 Movistar Team
+121.VERONA Carlos
+122.GONZÁLEZ Abner
+123.JACOBS Johan
+124.MAS Lluís
+125.MÜHLBERGER Gregor
+126.RODRÍGUEZ Óscar
+127.RUBIO Einer Augusto
+14 Team BikeExchange - Jayco
+131.SOBRERO Matteo
+132.BEWLEY Sam
+133.COLLEONI Kevin
+134.GRMAY Tsgabu
+135.JANSEN Amund Grøndahl
+136.MAAS Jan
+137.SMITH Dion
+15 Israel - Premier Tech
+141.FROOME Chris
+142.BEVIN Patrick
+143.CATAFORD Alexander
+144.FUGLSANG Jakob
+145.NEILANDS Krists
+146.STRONG Corbin
+147.WOODS Michael
+16 Team DSM
+151.LEKNESSUND Andreas
+152.ARNDT Nikias
+153.BRENNER Marco
+154.COMBAUD Romain
+155.NABERMAN Tim
+156.PEDERSEN Casper
+157.TUSVELD Martijn
+17 Astana Qazaqstan Team
+161.TEJADA Harold
+162.CONTI Valerio
+163.DE BOD Stefan
+164.GRUZDEV Dmitriy
+165.NIBALI Antonio
+166.RIABUSHENKO Alexandr
+167.ZEITS Andrey
+18 EF Education-EasyPost
+171.URÁN Rigoberto
+172.HEALY Ben
+173.POWLESS Neilson
+174.QUINN Sean
+175.STEINHAUSER Georg
+
+
+19 Equipo Kern Pharma
+181.PARRA José Félix
+182.BERRADE Urko
+183.GALVÁN Francisco
+184.GARCÍA PIERNA Carlos
+185.GARCÍA PIERNA Raúl
+186.LOPEZ Diego
+187.MIQUEL Pau
+20 Switzerland
+191.FLÜCKIGER Mathias
+192.BRUN Nils
+193.COLOMBO Filippo
+194.DEBONS Antoine
+195.LILLO Dario
+196.THIÉBAUD Valère
+197.VOISARD Yannis

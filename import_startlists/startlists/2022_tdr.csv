@@ -1,0 +1,141 @@
+number, name, team
+1, THOMAS Geraint,INEOS Grenadiers
+2, AMADOR Andrey,INEOS Grenadiers
+3, DE PLUS Laurens,INEOS Grenadiers
+4, HAYTER Ethan,INEOS Grenadiers
+5, PLAPP Luke,INEOS Grenadiers
+6, RIVERA Brandon Smith,INEOS Grenadiers
+7, SHEFFIELD Magnus,INEOS Grenadiers
+11, HIRSCHI Marc,UAE Team Emirates
+12, OLIVEIRA Ivo,UAE Team Emirates
+13, AYUSO Juan,UAE Team Emirates
+14, FISHER-BLACK Finn,UAE Team Emirates
+15, GAVIRIA Fernando,UAE Team Emirates
+16, MCNULTY Brandon,UAE Team Emirates
+17, POLANC Jan,UAE Team Emirates
+21, KRUIJSWIJK Steven,Jumbo-Visma
+22, DENNIS Rohan,Jumbo-Visma
+23, GESINK Robert,Jumbo-Visma
+24, HESSMANN Michel,Jumbo-Visma
+25, KUSS Sepp,Jumbo-Visma
+26, LEEMREIZE Gijs,Jumbo-Visma
+27, ROOSEN Timo,Jumbo-Visma
+31, CARUSO Damiano,Bahrain - Victorious
+32, MÄDER Gino,Bahrain - Victorious
+33, PERNSTEINER Hermann,Bahrain - Victorious
+34, PRICE-PEJTERSEN Johan,Bahrain - Victorious
+35, SÁNCHEZ Luis León,Bahrain - Victorious
+36, TEUNS Dylan,Bahrain - Victorious
+37, WILLIAMS Stephen,Bahrain - Victorious
+41, MEINTJES Louis,Intermarché - Wanty - Gobert Matériaux
+42, DELACROIX Théo,Intermarché - Wanty - Gobert Matériaux
+43, HERMANS Quinten,Intermarché - Wanty - Gobert Matériaux
+44, HUYS Laurens,Intermarché - Wanty - Gobert Matériaux
+45, JOHANSEN Julius,Intermarché - Wanty - Gobert Matériaux
+46, PLANCKAERT Baptiste,Intermarché - Wanty - Gobert Matériaux
+47, TAARAMÄE Rein,Intermarché - Wanty - Gobert Matériaux
+51, IZAGIRRE Ion,Cofidis
+52, ARMÉE Sander,Cofidis
+53, BOHLI Tom,Cofidis
+54, CHAMPION Thomas,Cofidis
+55, FERNÁNDEZ Rubén,Cofidis
+56, GESCHKE Simon,Cofidis
+57, VILLELLA Davide,Cofidis
+61, PINOT Thibaut,Groupama - FDJ
+62, BADILATTI Matteo,Groupama - FDJ
+63, MOLARD Rudy,Groupama - FDJ
+64, PACHER Quentin,Groupama - FDJ
+65, REICHENBACH Sébastien,Groupama - FDJ
+66, ROUX Anthony,Groupama - FDJ
+67, STORER Michael,Groupama - FDJ
+71, CAVAGNA Rémi,Quick-Step Alpha Vinyl Team
+72, CATTANEO Mattia,Quick-Step Alpha Vinyl Team
+73, ČERNÝ Josef,Quick-Step Alpha Vinyl Team
+74, HONORÉ Mikkel Frølich,Quick-Step Alpha Vinyl Team
+75, KNOX James,Quick-Step Alpha Vinyl Team
+76, SCHMID Mauro,Quick-Step Alpha Vinyl Team
+77, VERNON Ethan,Quick-Step Alpha Vinyl Team
+81, O'CONNOR Ben,AG2R Citroën Team
+82, BOUCHARD Geoffrey,AG2R Citroën Team
+83, JUNGELS Bob,AG2R Citroën Team
+84, NAESEN Lawrence,AG2R Citroën Team
+85, PARET-PEINTRE Valentin,AG2R Citroën Team
+86, PETERS Nans,AG2R Citroën Team
+87, SCHÄR Michael,AG2R Citroën Team
+91, VLASOV Aleksandr,BORA - hansgrohe
+92, GROßSCHARTNER Felix,BORA - hansgrohe
+93, HIGUITA Sergio,BORA - hansgrohe
+94, KONRAD Patrick,BORA - hansgrohe
+95, PALZER Anton,BORA - hansgrohe
+96, SCHACHMANN Maximilian,BORA - hansgrohe
+97, WANDAHL Frederik,BORA - hansgrohe
+101,CRAS Steff,Lotto Soudal
+102,GRIGNARD Sébastien,Lotto Soudal
+103,HOLMES Matthew,Lotto Soudal
+104,SWEENY Harry,Lotto Soudal
+105,VANHOUCKE Harm,Lotto Soudal
+106,VERSCHAEVE Viktor,Lotto Soudal
+,,Lotto Soudal
+111,TIBERI Antonio,Trek - Segafredo
+112,ABERASTURI Jon,Trek - Segafredo
+113,BERNARD Julien,Trek - Segafredo
+114,BRAMBILLA Gianluca,Trek - Segafredo
+115,ELISSONDE Kenny,Trek - Segafredo
+116,SKUJIŅŠ Toms,Trek - Segafredo
+117,TOLHOEK Antwan,Trek - Segafredo
+121,VERONA Carlos,Movistar Team
+122,GONZÁLEZ Abner,Movistar Team
+123,JACOBS Johan,Movistar Team
+124,MAS Lluís,Movistar Team
+125,MÜHLBERGER Gregor,Movistar Team
+126,RODRÍGUEZ Óscar,Movistar Team
+127,RUBIO Einer Augusto,Movistar Team
+131,SOBRERO Matteo,Team BikeExchange - Jayco
+132,BEWLEY Sam,Team BikeExchange - Jayco
+133,COLLEONI Kevin,Team BikeExchange - Jayco
+134,GRMAY Tsgabu,Team BikeExchange - Jayco
+135,JANSEN Amund Grøndahl,Team BikeExchange - Jayco
+136,MAAS Jan,Team BikeExchange - Jayco
+137,SMITH Dion,Team BikeExchange - Jayco
+141,FROOME Chris,Israel - Premier Tech
+142,BEVIN Patrick,Israel - Premier Tech
+143,CATAFORD Alexander,Israel - Premier Tech
+144,FUGLSANG Jakob,Israel - Premier Tech
+145,NEILANDS Krists,Israel - Premier Tech
+146,STRONG Corbin,Israel - Premier Tech
+147,WOODS Michael,Israel - Premier Tech
+151,LEKNESSUND Andreas,Team DSM
+152,ARNDT Nikias,Team DSM
+153,BRENNER Marco,Team DSM
+154,COMBAUD Romain,Team DSM
+155,NABERMAN Tim,Team DSM
+156,PEDERSEN Casper,Team DSM
+157,TUSVELD Martijn,Team DSM
+161,TEJADA Harold,Astana Qazaqstan Team
+162,CONTI Valerio,Astana Qazaqstan Team
+163,DE BOD Stefan,Astana Qazaqstan Team
+164,GRUZDEV Dmitriy,Astana Qazaqstan Team
+165,NIBALI Antonio,Astana Qazaqstan Team
+166,RIABUSHENKO Alexandr,Astana Qazaqstan Team
+167,ZEITS Andrey,Astana Qazaqstan Team
+171,URÁN Rigoberto,EF Education-EasyPost
+172,HEALY Ben,EF Education-EasyPost
+173,POWLESS Neilson,EF Education-EasyPost
+174,QUINN Sean,EF Education-EasyPost
+175,STEINHAUSER Georg,EF Education-EasyPost
+,,EF Education-EasyPost
+,,EF Education-EasyPost
+181,PARRA José Félix,Equipo Kern Pharma
+182,BERRADE Urko,Equipo Kern Pharma
+183,GALVÁN Francisco,Equipo Kern Pharma
+184,GARCÍA PIERNA Carlos,Equipo Kern Pharma
+185,GARCÍA PIERNA Raúl,Equipo Kern Pharma
+186,LOPEZ Diego,Equipo Kern Pharma
+187,MIQUEL Pau,Equipo Kern Pharma
+191,FLÜCKIGER Mathias,Switzerland
+192,BRUN Nils,Switzerland
+193,COLOMBO Filippo,Switzerland
+194,DEBONS Antoine,Switzerland
+195,LILLO Dario,Switzerland
+196,THIÉBAUD Valère,Switzerland
+197,VOISARD Yannis,Switzerland
